@@ -1,6 +1,6 @@
 anomaly_id,anomaly_type,entity_id,expected_result,reason
-ANOM-001,REVENUE_DOUBLE_COUNT,ORD-000003,FLAG,Duplicate attribution row causes revenue to be counted twice
 ANOM-002,TOUCHPOINT_AFTER_CONVERSION,ORD-000001,FLAG,Touchpoint occurred after the order date and must not receive attribution credit
-ANOM-003,SPEND_CURRENCY_MISMATCH,COST-000001,FLAG,Campaign spend currency differs from the expected reporting currency INR
-ANOM-004,CAMPAIGN_COST_OMITTED,CMP-2026-000002,FLAG,Campaign has attributed revenue but its cost record is missing; ROI must not be calculated
-ANOM-005,ANONYMOUS_SESSION_LINKED_WITHOUT_EVIDENCE,SES-000001,FLAG,Anonymous session linked to a contact without identity evidence or consent
+ANOM-003,SPEND_CURRENCY_MISMATCH,COST-000001,FLAG,Campaign spend currency differs from expected reporting currency INR
+ANOM-004,CAMPAIGN_COST_OMITTED,CMP-2026-000001,FLAG,Campaign has attributed revenue but its cost record is missing; ROI must not be calculated
+ANOM-005,ANONYMOUS_SESSION_LINKED_WITHOUT_EVIDENCE,SES-2026-000001,FLAG,Anonymous session linked to a contact without identity evidence or consent
+ANOM-001,REVENUE_DOUBLE_COUNT,ORD-000002,FLAG,"Duplicate order, model and touchpoint attribution causes revenue overcounting"

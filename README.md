@@ -2,198 +2,128 @@
 
 ## 1. Project Overview
 
-This project is a Python-based Marketing Attribution and ROI Analysis system. It connects marketing campaigns, customer interactions, leads, opportunities, orders, and campaign costs to measure marketing performance.
+A Python-based Marketing Attribution and ROI Analysis system that connects campaigns, contacts, marketing touchpoints, web sessions, leads, opportunities, orders, and campaign costs.
 
-The system calculates attributed revenue using three attribution models and generates campaign-level ROI and ROAS reports. It also includes data validation and five injected anomaly scenarios with detection scripts and ground-truth labels.
+The system compares three attribution models, calculates campaign-level ROI and ROAS, validates data quality, and demonstrates five injected anomaly scenarios with separate ground-truth labels.
 
-## 2. Technologies Used
+All generated records are synthetic demonstration data.
+
+## 2. Technologies
 
 - Python 3.11
 - Pandas
 - NumPy
+- SQLite
+- SQLAlchemy
 - Pytest
-- CSV for data storage and exchange
-- Git and GitHub for version control
+- CSV and JSON
+- Git and GitHub
 
 ## 3. Project Workflow
 
-1. Generate reproducible synthetic marketing data.
-2. Connect campaign touchpoints with contacts.
-3. Connect leads with opportunities and orders.
-4. Calculate attributed revenue using three attribution models.
-5. Generate campaign-level ROI and ROAS reports.
-6. Validate data quality and relationships.
-7. Inject five labeled anomaly scenarios.
-8. Run anomaly detection scripts.
-9. Execute automated tests.
+1. Generate core marketing datasets using a fixed random seed.
+2. Generate channels, creatives, audiences, campaign relationships, and web sessions.
+3. Calculate First-Touch, Last-Touch, and Linear attribution.
+4. Calculate campaign-level ROI and ROAS.
+5. Validate primary keys, foreign keys, dates, relationships, and revenue reconciliation.
+6. Inject five separate anomaly scenarios.
+7. Detect the injected anomalies and compare their expected decisions.
+8. Export CSV datasets to JSON and SQLite.
+9. Run automated tests.
 
 ## 4. Attribution Models
 
-The system supports three attribution models:
+The attribution script uses a **180-day lookback window**.
 
 - **First-Touch:** Credits the first eligible touchpoint with the order's revenue.
 - **Last-Touch:** Credits the last eligible touchpoint with the order's revenue.
 - **Linear:** Distributes the order's revenue equally across eligible touchpoints.
 
-The current implementation uses a 30-day lookback window. Touchpoints occurring after an order are excluded from attribution.
+Touchpoints occurring after an order are excluded.
+
+Orders without eligible touchpoints are not attributed.
 
 ## 5. ROI and ROAS
 
-**ROI:**
-`ROI (%) = ((Attributed Revenue - Campaign Cost) / Campaign Cost) * 100`
+**ROI (%)**
 
-**ROAS:**
+`((Attributed Revenue - Campaign Cost) / Campaign Cost) * 100`
 
-`ROAS = Attributed Revenue / Campaign Cost`
+**ROAS**
 
-Missing campaign costs must not be treated as zero. ROI and ROAS should not be calculated when the required cost record is missing.
+`Attributed Revenue / Campaign Cost`
 
-## 6. Generated Data Files
+The system checks whether campaign costs exist and whether currencies match before calculating ROI and ROAS. Missing or mismatched costs must not be treated as valid zero-cost records.
 
-- `campaigns.csv`
-- `contacts.csv`
-- `touchpoints.csv`
-- `leads.csv`
-- `opportunities.csv`
-- `orders.csv`
-- `cost_records.csv`
-- `attribution_results.csv`
-- `campaign_roi_report.csv`
+## 6. Generated Dataset Scale
 
-## 7. Anomaly Detection Scenarios
+The current full-scale generation produces:
 
-Five separate anomaly scenarios are injected into test datasets. Their expected decisions are recorded in `anomaly_data/ground_truth.csv`.
+| Dataset | Records |
+|---|---:|
+| Campaigns | 500 |
+| Channels | 5 |
+| Contacts | 50,000 |
+| Touchpoints | 200,000 |
+| Web sessions | 200,000 |
+| Creatives | 50 |
+| Audiences | 25 |
+| Campaign-creative relationships | 500 |
+| Campaign-audience relationships | 500 |
+| Leads | 25,000 |
+| Opportunities | 10,000 |
+| Orders | 2,563 |
+| Cost records | 500 |
+| Attribution results | 11,667 |
+| Unattributed orders | 0 |
+| Campaign ROI report | 1,500 |
 
-| ID | Anomaly | Expected decision |
+The ROI report contains 500 campaign rows for each of the three attribution models.
+
+## 7. Anomaly Scenarios
+
+Five separate anomaly datasets are stored in `anomaly_data/`. The original generated datasets are preserved.
+
+| ID | Scenario | Expected decision |
 |---|---|---|
 | ANOM-001 | Revenue double counting | FLAG |
 | ANOM-002 | Touchpoint after conversion | FLAG |
 | ANOM-003 | Campaign spend currency mismatch | FLAG |
 | ANOM-004 | Campaign cost omitted | FLAG |
-| ANOM-005 | Anonymous session linked without identity evidence | FLAG |
+| ANOM-005 | Anonymous session linked without identity evidence and consent | FLAG |
 
-Each scenario has an injection script and a corresponding detection script.
+Each scenario has an injection script, a detection script, and a corresponding ground-truth label.
 
-### Anomaly scripts
+The detectors demonstrate the five injected test cases; they are not general-purpose detectors for every possible anomaly.
 
-- `inject_anomalies.py` and `detect_anomalies.py`
-- `inject_anomaly2.py` and `detect_anomaly2.py`
-- `inject_anomaly3.py` and `detect_anomaly3.py`
-- `inject_anomaly4.py` and `detect_anomaly4.py`
-- `inject_anomaly5.py` and `detect_anomaly5.py`
+## 8. Validation
 
-The fifth scenario also creates `web_sessions.csv` and a separate anomalous session dataset.
-
-**Important:** The current anomaly detectors demonstrate detection of the five injected test cases. They are not yet general-purpose detectors for every possible anomaly.
-
-## 8. Data Validation
-
-The validation script checks:
-
-- Missing and duplicate primary keys.
-- Invalid foreign key references.
-- Lead and opportunity contact consistency.
-- Orders linked to Won opportunities.
-- Attribution revenue reconciliation.
-- Positive campaign costs.
-
-Run validation with:
+Run the main validation:
 
 ```bash
 python validate.py
 ```
 
-## 9. Automated Testing
+Run additional entity validation:
 
-Automated tests are implemented using Pytest.
+```bash
+python validate_entities.py
+```
 
-Latest test result:
+The validation scripts check identifiers, relationships, attribution chronology, revenue reconciliation, costs, campaign currency consistency, and web-session identity-linking rules.
 
-**7 passed**
+**Latest result:** All validation checks passed.
 
-Run tests using:
+**Attribution coverage:** All 2,563 orders have eligible touchpoints within the 180-day lookback window. No orders remain unattributed in the baseline dataset. Unattributed orders are exported separately for auditability.
+
+## 9. Automated Tests
+
+Run:
 
 ```bash
 python -m pytest -q
 ```
 
-## 10. Current Dataset Size
+**Latest result: 7 passed.**
 
-| Entity | Records |
-|---|---:|
-| Campaigns | 100 |
-| Contacts | 1,000 |
-| Touchpoints | 5,000 |
-| Leads | 500 |
-| Opportunities | 200 |
-| Orders | 52 |
-| Cost records | 100 |
-| Attribution rows | 47 |
-
-The dataset contains synthetic demonstration records.
-
-## 11. How to Run
-
-Install dependencies:
-
-```bash
-python -m pip install pandas numpy pytest
-```
-
-Generate data:
-
-```bash
-python generator.py
-```
-
-Run attribution:
-
-```bash
-python attribution.py
-```
-
-Calculate ROI:
-
-```bash
-python roi.py
-```
-
-Validate data:
-
-```bash
-python validate.py
-```
-
-Run automated tests:
-
-```bash
-python -m pytest -q
-```
-
-Run all five anomaly detectors:
-
-```bash
-python detect_anomalies.py
-python detect_anomaly2.py
-python detect_anomaly3.py
-python detect_anomaly4.py
-python detect_anomaly5.py
-```
-
-## 12. Reproducibility
-
-The data generator uses a fixed random seed (`20261022`) to support repeatable synthetic data generation.
-
-## 13. Current Scope and Limitations
-
-This is a working prototype demonstrating marketing attribution, ROI calculation, data validation, and five labeled anomaly scenarios.
-
-The current dataset is smaller than the full target scale of 500 campaigns, 50,000 contacts, 200,000 touchpoints, and 10,000 opportunities.
-
-The current workflow is primarily CSV-based. The anomaly scenarios use separate test datasets to avoid modifying the original generated data.
-
-The project can be extended with larger datasets, integrated database workflows, broader anomaly detection, and additional reporting capabilities.
-
-## 14. Repository
-
-GitHub: https://github.com/Pavithra675/marketing-attribution-roi
+##

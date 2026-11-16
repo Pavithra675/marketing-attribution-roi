@@ -1,0 +1,302 @@
+[
+  {
+    "creative_id": "CRE-0001",
+    "creative_name": "Creative 1",
+    "creative_type": "Text",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0002",
+    "creative_name": "Creative 2",
+    "creative_type": "Text",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0003",
+    "creative_name": "Creative 3",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0004",
+    "creative_name": "Creative 4",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0005",
+    "creative_name": "Creative 5",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0006",
+    "creative_name": "Creative 6",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0007",
+    "creative_name": "Creative 7",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0008",
+    "creative_name": "Creative 8",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0009",
+    "creative_name": "Creative 9",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0010",
+    "creative_name": "Creative 10",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0011",
+    "creative_name": "Creative 11",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0012",
+    "creative_name": "Creative 12",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0013",
+    "creative_name": "Creative 13",
+    "creative_type": "Text",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0014",
+    "creative_name": "Creative 14",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0015",
+    "creative_name": "Creative 15",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0016",
+    "creative_name": "Creative 16",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0017",
+    "creative_name": "Creative 17",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0018",
+    "creative_name": "Creative 18",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0019",
+    "creative_name": "Creative 19",
+    "creative_type": "Banner",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0020",
+    "creative_name": "Creative 20",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0021",
+    "creative_name": "Creative 21",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0022",
+    "creative_name": "Creative 22",
+    "creative_type": "Text",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0023",
+    "creative_name": "Creative 23",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0024",
+    "creative_name": "Creative 24",
+    "creative_type": "Text",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0025",
+    "creative_name": "Creative 25",
+    "creative_type": "Banner",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0026",
+    "creative_name": "Creative 26",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0027",
+    "creative_name": "Creative 27",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0028",
+    "creative_name": "Creative 28",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0029",
+    "creative_name": "Creative 29",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0030",
+    "creative_name": "Creative 30",
+    "creative_type": "Banner",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0031",
+    "creative_name": "Creative 31",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0032",
+    "creative_name": "Creative 32",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0033",
+    "creative_name": "Creative 33",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0034",
+    "creative_name": "Creative 34",
+    "creative_type": "Text",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0035",
+    "creative_name": "Creative 35",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0036",
+    "creative_name": "Creative 36",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0037",
+    "creative_name": "Creative 37",
+    "creative_type": "Banner",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0038",
+    "creative_name": "Creative 38",
+    "creative_type": "Banner",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0039",
+    "creative_name": "Creative 39",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0040",
+    "creative_name": "Creative 40",
+    "creative_type": "Banner",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0041",
+    "creative_name": "Creative 41",
+    "creative_type": "Banner",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0042",
+    "creative_name": "Creative 42",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0043",
+    "creative_name": "Creative 43",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0044",
+    "creative_name": "Creative 44",
+    "creative_type": "Banner",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0045",
+    "creative_name": "Creative 45",
+    "creative_type": "Video",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0046",
+    "creative_name": "Creative 46",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0047",
+    "creative_name": "Creative 47",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0048",
+    "creative_name": "Creative 48",
+    "creative_type": "Text",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0049",
+    "creative_name": "Creative 49",
+    "creative_type": "Image",
+    "status": "Active"
+  },
+  {
+    "creative_id": "CRE-0050",
+    "creative_name": "Creative 50",
+    "creative_type": "Text",
+    "status": "Active"
+  }
+]

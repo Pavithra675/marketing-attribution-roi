@@ -1,61 +1,108 @@
-# Validation Report
+# Marketing Attribution & ROI — Validation Report
 
-## 1. Overview
+## 1. Project Configuration
 
-This report summarizes the validation and testing performed on the Marketing Attribution and ROI Analysis prototype.
+- Random seed: 20261022
+- Attribution lookback window: 180 days
+- Primary currency: INR
+- Dataset format: CSV
+- Additional exports: JSON and SQLite
 
-## 2. Dataset Validation
+## 2. Generated Dataset Counts
 
-The original dataset validation was executed using `validate.py`.
-
-| Entity | Record Count |
+| Dataset | Records |
 |---|---:|
-| Campaigns | 100 |
-| Contacts | 1,000 |
-| Touchpoints | 5,000 |
-| Leads | 500 |
-| Opportunities | 200 |
-| Orders | 52 |
-| Cost Records | 100 |
-| Attribution Results | 47 |
+| Campaigns | 500 |
+| Channels | 5 |
+| Creatives | 50 |
+| Audiences | 25 |
+| Contacts | 50,000 |
+| Touchpoints | 200,000 |
+| Web Sessions | 200,000 |
+| Leads | 25,000 |
+| Opportunities | 10,000 |
+| Orders | 2,563 |
+| Cost Records | 500 |
+| Campaign-Creative Links | 500 |
+| Campaign-Audience Links | 500 |
+| Attribution Results | 11,667 |
+| Campaign ROI Report | 1,500 |
+| Unattributed Orders | 0 |
 
-**Result:** ALL VALIDATION CHECKS PASSED.
+## 3. Attribution Validation
 
-## 3. Automated Testing
+Three attribution models are implemented:
 
-Test command:
+- First Touch
+- Last Touch
+- Linear
 
-`python -m pytest -q`
+Latest results:
 
-Result:
+| Model | Orders Reconciled | Attributed Revenue |
+|---|---:|---:|
+| First Touch | 2,563 | 134,045,294 |
+| Last Touch | 2,563 | 134,045,294 |
+| Linear | 2,563 | 134,045,294 |
 
-**7 passed**
+The attribution process:
+- Uses a 180-day conversion lookback window.
+- Excludes touchpoints after the order date.
+- Reconciles attributed revenue against eligible order revenue.
+- Reports orders without eligible touchpoints.
 
-## 4. Anomaly Detection Results
+All 2,563 orders have eligible touchpoints.
+Unattributed orders: 0.
+Unattributed revenue: 0.
 
-Five injected anomaly scenarios were tested using separate datasets.
+## 4. ROI Validation
 
-| Anomaly ID | Scenario | Expected Decision | Observed Decision |
-|---|---|---|---|
-| ANOM-001 | Revenue double count | FLAG | FLAG |
-| ANOM-002 | Touchpoint after conversion | FLAG | FLAG |
-| ANOM-003 | Spend currency mismatch | FLAG | FLAG |
-| ANOM-004 | Campaign cost omitted | FLAG | FLAG |
-| ANOM-005 | Anonymous session linked without evidence | FLAG | FLAG |
+- ROI calculated for 500 campaigns under each attribution model.
+- Total campaign-model ROI records: 1,500.
+- All baseline campaign costs are available.
+- Campaign and cost currencies match (INR).
 
-**Result:** All five injected anomalies were detected.
+## 5. Data Quality Validation
 
-## 5. Reproducibility
+The validation process checks:
+- Missing and duplicate primary keys.
+- Foreign key references.
+- Opportunity and lead contact consistency.
+- Order and opportunity lifecycle consistency.
+- Allowed status and attribution model values.
+- Touchpoint dates against conversion dates.
+- Duplicate attribution records.
+- Revenue reconciliation.
+- Positive campaign costs.
+- Campaign and cost currency consistency.
 
-The synthetic data generator uses a fixed random seed: `20261022`.
+Latest core validation:
 
-## 6. Limitations
+**ALL VALIDATION CHECKS PASSED**
 
-- The current dataset is smaller than the requested target scale.
-- Anomaly detectors currently demonstrate the five injected scenarios.
-- The workflow is primarily CSV-based.
-- The anomaly datasets are separate from the original datasets.
+Additional entity validation:
 
-## 7. Conclusion
+**ALL ADDITIONAL ENTITY CHECKS PASSED**
 
-The prototype successfully demonstrates synthetic data generation, marketing attribution, ROI and ROAS calculations, data validation, automated testing, and detection of five injected anomaly scenarios.
+Automated tests:
+
+**7 PASSED**
+
+## 6. Anomaly Detection Scenarios
+
+| ID | Anomaly | Expected Result |
+|---|---|---|
+| ANOM-001 | Revenue double-counted | FLAG |
+| ANOM-002 | Touchpoint after conversion | FLAG |
+| ANOM-003 | Spend currency mismatch | FLAG |
+| ANOM-004 | Campaign cost omitted | FLAG |
+| ANOM-005 | Anonymous session linked without evidence | FLAG |
+
+Ground-truth labels are stored separately in `anomaly_data/ground_truth.csv`.
+
+## 7. Export Validation
+
+- 16 JSON dataset exports generated.
+- 16 SQLite tables created.
+- SQL schema exported.
+- Unattributed orders exported separately.

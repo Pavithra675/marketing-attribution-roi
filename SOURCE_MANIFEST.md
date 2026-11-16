@@ -1,78 +1,131 @@
-# Source Manifest
+# Marketing Attribution & ROI — Source Manifest
 
-## 1. Project Information
+## 1. Project Overview
 
-**Project:** Marketing Attribution and ROI Analysis  
-**Language:** Python 3.11  
-**Data Format:** CSV  
-**Random Seed:** 20261022
+This project generates synthetic marketing data, calculates attribution using three models, calculates campaign ROI, validates data quality, detects injected anomalies, and exports results.
 
-## 2. Core Python Scripts
+Random seed: `20261022`
+
+Attribution lookback window: 180 days.
+
+## 2. Python Source Files
 
 | File | Purpose |
 |---|---|
-| `generator.py` | Generates synthetic marketing datasets. |
-| `attribution.py` | Calculates First-Touch, Last-Touch, and Linear attribution. |
-| `roi.py` | Calculates campaign ROI and ROAS. |
-| `validate.py` | Validates dataset quality and relationships. |
-| `test_data.py` | Contains automated data validation tests. |
-| `database.py` | Database configuration code. |
-| `models.py` | Defines database models. |
+| `generator.py` | Generates core marketing datasets |
+| `generate_entities.py` | Generates channels, creatives, audiences, bridge tables, and web sessions |
+| `attribution.py` | Calculates First Touch, Last Touch, and Linear attribution |
+| `roi.py` | Calculates campaign ROI and ROAS |
+| `validate.py` | Validates core datasets and attribution results |
+| `validate_entities.py` | Validates additional entities and relationships |
+| `export_data.py` | Exports CSV datasets to JSON and SQLite |
+| `database.py` | Defines SQLAlchemy database connection configuration |
+| `models.py` | Defines SQLAlchemy entity models |
+| `test_data.py` | Contains automated tests |
+| `inject_anomalies.py` | Creates the revenue double-counting anomaly |
+| `inject_anomaly2.py` | Creates the post-conversion touchpoint anomaly |
+| `inject_anomaly3.py` | Creates the currency mismatch anomaly |
+| `inject_anomaly4.py` | Creates the missing campaign cost anomaly |
+| `inject_anomaly5.py` | Creates the unsupported anonymous session identity-link anomaly |
+| `detect_anomalies.py` | Detects revenue double-counting |
+| `detect_anomaly2.py` | Detects post-conversion touchpoints |
+| `detect_anomaly3.py` | Detects currency mismatches |
+| `detect_anomaly4.py` | Detects missing campaign costs |
+| `detect_anomaly5.py` | Detects unsupported anonymous session identity links |
 
-## 3. Anomaly Injection and Detection Scripts
+## 3. Core Generated CSV Datasets
 
-| Injection Script | Detection Script | Scenario |
-|---|---|---|
-| `inject_anomalies.py` | `detect_anomalies.py` | Revenue double counting |
-| `inject_anomaly2.py` | `detect_anomaly2.py` | Touchpoint after conversion |
-| `inject_anomaly3.py` | `detect_anomaly3.py` | Spend currency mismatch |
-| `inject_anomaly4.py` | `detect_anomaly4.py` | Campaign cost omitted |
-| `inject_anomaly5.py` | `detect_anomaly5.py` | Anonymous session linked without evidence |
-
-## 4. Original Generated Datasets
-
-| File | Description |
+| File | Contents |
 |---|---|
-| `campaigns.csv` | Campaign information. |
-| `contacts.csv` | Contact records. |
-| `touchpoints.csv` | Marketing interaction records. |
-| `leads.csv` | Lead records. |
-| `opportunities.csv` | Sales opportunity records. |
-| `orders.csv` | Order and revenue records. |
-| `cost_records.csv` | Campaign expenditure records. |
-| `attribution_results.csv` | Calculated attribution results. |
-| `campaign_roi_report.csv` | Campaign ROI and ROAS results. |
-| `web_sessions.csv` | Synthetic web session and identity-linking records. |
+| `campaigns.csv` | Campaign master data |
+| `contacts.csv` | Contact master data |
+| `touchpoints.csv` | Marketing interactions |
+| `leads.csv` | Lead records |
+| `opportunities.csv` | Sales opportunities |
+| `orders.csv` | Completed order and revenue records |
+| `cost_records.csv` | Campaign marketing spend |
+| `attribution_results.csv` | Revenue attributed under three models |
+| `campaign_roi_report.csv` | Campaign ROI and ROAS results |
+
+## 4. Additional Generated CSV Datasets
+
+| File | Contents |
+|---|---|
+| `channels.csv` | Marketing channel master data |
+| `creatives.csv` | Creative master data |
+| `audiences.csv` | Audience segments |
+| `campaign_creatives.csv` | Campaign-to-creative relationships |
+| `campaign_audiences.csv` | Campaign-to-audience relationships |
+| `web_sessions.csv` | Identified and anonymous web sessions |
 
 ## 5. Anomaly Test Data
 
 Location: `anomaly_data/`
 
-| File | Description |
+| File | Purpose |
 |---|---|
-| `attribution_with_double_count.csv` | Contains a duplicated attribution record. |
-| `touchpoints_after_conversion.csv` | Contains an injected post-conversion touchpoint. |
-| `costs_currency_mismatch.csv` | Contains a campaign cost with an incorrect currency. |
-| `costs_omitted.csv` | Contains campaign costs with one record removed. |
-| `web_sessions_anonymous_link.csv` | Contains an anonymous session linked without evidence. |
-| `ground_truth.csv` | Stores expected anomaly labels and explanations. |
+| `ground_truth.csv` | Expected anomaly labels |
+| `attribution_with_double_count.csv` | Revenue double-counting test data |
+| `touchpoints_after_conversion.csv` | Post-conversion touchpoint test data |
+| `attribution_after_conversion.csv` | Attribution data for the post-conversion test |
+| `costs_currency_mismatch.csv` | Currency mismatch test data |
+| `costs_omitted.csv` | Missing campaign cost test data |
+| `web_sessions_anonymous_link.csv` | Unsupported anonymous identity-link test data |
 
-## 6. Documentation and Configuration
+The anomaly datasets are kept separate from the valid baseline datasets.
+
+## 6. Export Directory
+
+Location: `exports/`
+
+Contains:
+- JSON versions of generated CSV datasets.
+- `marketing_attribution.db`, the SQLite export database.
+- `schema.sql`, containing exported SQL table definitions.
+
+The SQLite export provides portable data tables. The pandas-based export does not enforce all foreign-key constraints.
+
+## 7. Documentation and Configuration
 
 | File | Purpose |
 |---|---|
-| `README.md` | Project overview, workflow, and execution instructions. |
-| `VALIDATION_REPORT.md` | Records validation, test, and anomaly detection results. |
-| `SOURCE_MANIFEST.md` | Describes project source files and datasets. |
-| `requirements.txt` | Lists Python dependencies. |
-| `.gitignore` | Excludes files and folders from Git tracking. |
+| `README.md` | Project overview, setup, and execution instructions |
+| `DATA_DICTIONARY.md` | Dataset fields and relationships |
+| `VALIDATION_REPORT.md` | Validation, anomaly, and test results |
+| `SOURCE_MANIFEST.md` | Project file and dataset inventory |
+| `requirements.txt` | Python dependencies |
+| `.gitignore` | Files and folders excluded from Git |
 
-## 7. Data Characteristics
+## 8. Dataset Scale
 
-All datasets are synthetic demonstration data generated locally. The generator uses a fixed random seed to support reproducibility.
+| Entity | Records |
+|---|---:|
+| Campaigns | 500 |
+| Contacts | 50,000 |
+| Touchpoints | 200,000 |
+| Leads | 25,000 |
+| Opportunities | 10,000 |
+| Orders | 2,563 |
+| Cost Records | 500 |
+| Web Sessions | 200,000 |
 
-## 8. Known Limitations
+## 9. Execution Order
 
-- Current dataset size is smaller than the target scale.
-- Anomaly detection scripts demonstrate the five injected test scenarios.
-- The current analysis workflow primarily uses CSV files.
+Run commands from the project root:
+
+1. `generator.py`
+2. `generate_entities.py`
+3. `attribution.py`
+4. `roi.py`
+5. `validate.py`
+6. `validate_entities.py`
+7. `export_data.py`
+8. `python -m pytest -q`
+
+Use the project's virtual environment Python executable when running commands in Windows PowerShell.
+
+## 10. Reproducibility
+
+The generators use the fixed seed `20261022`.
+
+Two runs produced matching SHA-256 hashes for seven core CSV datasets: campaigns, contacts, touchpoints, leads, opportunities, orders, and cost records.

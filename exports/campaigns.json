@@ -1,0 +1,3502 @@
+[
+  {
+    "campaign_id": "CMP-2026-000001",
+    "campaign_name": "Campaign 1",
+    "channel": "Search",
+    "budget": 5635,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000002",
+    "campaign_name": "Campaign 2",
+    "channel": "Social Media",
+    "budget": 1794,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000003",
+    "campaign_name": "Campaign 3",
+    "channel": "Social Media",
+    "budget": 4775,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000004",
+    "campaign_name": "Campaign 4",
+    "channel": "Social Media",
+    "budget": 1047,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000005",
+    "campaign_name": "Campaign 5",
+    "channel": "Social Media",
+    "budget": 1968,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000006",
+    "campaign_name": "Campaign 6",
+    "channel": "Social Media",
+    "budget": 4168,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000007",
+    "campaign_name": "Campaign 7",
+    "channel": "Search",
+    "budget": 2746,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000008",
+    "campaign_name": "Campaign 8",
+    "channel": "Social Media",
+    "budget": 3462,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000009",
+    "campaign_name": "Campaign 9",
+    "channel": "Email",
+    "budget": 4547,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000010",
+    "campaign_name": "Campaign 10",
+    "channel": "Display",
+    "budget": 1083,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000011",
+    "campaign_name": "Campaign 11",
+    "channel": "Email",
+    "budget": 7022,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000012",
+    "campaign_name": "Campaign 12",
+    "channel": "Social Media",
+    "budget": 6696,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000013",
+    "campaign_name": "Campaign 13",
+    "channel": "Display",
+    "budget": 1934,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000014",
+    "campaign_name": "Campaign 14",
+    "channel": "Email",
+    "budget": 3430,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000015",
+    "campaign_name": "Campaign 15",
+    "channel": "Social Media",
+    "budget": 8494,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000016",
+    "campaign_name": "Campaign 16",
+    "channel": "Email",
+    "budget": 2773,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000017",
+    "campaign_name": "Campaign 17",
+    "channel": "Social Media",
+    "budget": 9405,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000018",
+    "campaign_name": "Campaign 18",
+    "channel": "Search",
+    "budget": 2555,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000019",
+    "campaign_name": "Campaign 19",
+    "channel": "Social Media",
+    "budget": 8155,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000020",
+    "campaign_name": "Campaign 20",
+    "channel": "Display",
+    "budget": 2456,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000021",
+    "campaign_name": "Campaign 21",
+    "channel": "Display",
+    "budget": 8485,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000022",
+    "campaign_name": "Campaign 22",
+    "channel": "Email",
+    "budget": 3067,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000023",
+    "campaign_name": "Campaign 23",
+    "channel": "Display",
+    "budget": 9649,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000024",
+    "campaign_name": "Campaign 24",
+    "channel": "Social Media",
+    "budget": 1947,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000025",
+    "campaign_name": "Campaign 25",
+    "channel": "Email",
+    "budget": 7076,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000026",
+    "campaign_name": "Campaign 26",
+    "channel": "Email",
+    "budget": 5874,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000027",
+    "campaign_name": "Campaign 27",
+    "channel": "Social Media",
+    "budget": 1094,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000028",
+    "campaign_name": "Campaign 28",
+    "channel": "Email",
+    "budget": 2231,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000029",
+    "campaign_name": "Campaign 29",
+    "channel": "Display",
+    "budget": 4603,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000030",
+    "campaign_name": "Campaign 30",
+    "channel": "Display",
+    "budget": 8856,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000031",
+    "campaign_name": "Campaign 31",
+    "channel": "Email",
+    "budget": 9732,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000032",
+    "campaign_name": "Campaign 32",
+    "channel": "Email",
+    "budget": 6990,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000033",
+    "campaign_name": "Campaign 33",
+    "channel": "Email",
+    "budget": 7204,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000034",
+    "campaign_name": "Campaign 34",
+    "channel": "Email",
+    "budget": 8868,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000035",
+    "campaign_name": "Campaign 35",
+    "channel": "Email",
+    "budget": 4897,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000036",
+    "campaign_name": "Campaign 36",
+    "channel": "Email",
+    "budget": 3647,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000037",
+    "campaign_name": "Campaign 37",
+    "channel": "Search",
+    "budget": 9463,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000038",
+    "campaign_name": "Campaign 38",
+    "channel": "Search",
+    "budget": 1693,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000039",
+    "campaign_name": "Campaign 39",
+    "channel": "Search",
+    "budget": 8670,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000040",
+    "campaign_name": "Campaign 40",
+    "channel": "Email",
+    "budget": 2966,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000041",
+    "campaign_name": "Campaign 41",
+    "channel": "Email",
+    "budget": 5795,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000042",
+    "campaign_name": "Campaign 42",
+    "channel": "Email",
+    "budget": 1734,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000043",
+    "campaign_name": "Campaign 43",
+    "channel": "Email",
+    "budget": 7328,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000044",
+    "campaign_name": "Campaign 44",
+    "channel": "Search",
+    "budget": 8073,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000045",
+    "campaign_name": "Campaign 45",
+    "channel": "Email",
+    "budget": 8538,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000046",
+    "campaign_name": "Campaign 46",
+    "channel": "Search",
+    "budget": 4294,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000047",
+    "campaign_name": "Campaign 47",
+    "channel": "Search",
+    "budget": 9381,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000048",
+    "campaign_name": "Campaign 48",
+    "channel": "Display",
+    "budget": 5588,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000049",
+    "campaign_name": "Campaign 49",
+    "channel": "Search",
+    "budget": 6170,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000050",
+    "campaign_name": "Campaign 50",
+    "channel": "Display",
+    "budget": 6820,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000051",
+    "campaign_name": "Campaign 51",
+    "channel": "Search",
+    "budget": 3918,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000052",
+    "campaign_name": "Campaign 52",
+    "channel": "Social Media",
+    "budget": 9211,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000053",
+    "campaign_name": "Campaign 53",
+    "channel": "Social Media",
+    "budget": 8632,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000054",
+    "campaign_name": "Campaign 54",
+    "channel": "Search",
+    "budget": 8395,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000055",
+    "campaign_name": "Campaign 55",
+    "channel": "Social Media",
+    "budget": 1136,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000056",
+    "campaign_name": "Campaign 56",
+    "channel": "Email",
+    "budget": 8535,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000057",
+    "campaign_name": "Campaign 57",
+    "channel": "Search",
+    "budget": 9820,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000058",
+    "campaign_name": "Campaign 58",
+    "channel": "Social Media",
+    "budget": 3019,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000059",
+    "campaign_name": "Campaign 59",
+    "channel": "Display",
+    "budget": 8076,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000060",
+    "campaign_name": "Campaign 60",
+    "channel": "Social Media",
+    "budget": 3495,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000061",
+    "campaign_name": "Campaign 61",
+    "channel": "Display",
+    "budget": 5025,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000062",
+    "campaign_name": "Campaign 62",
+    "channel": "Email",
+    "budget": 8071,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000063",
+    "campaign_name": "Campaign 63",
+    "channel": "Search",
+    "budget": 2463,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000064",
+    "campaign_name": "Campaign 64",
+    "channel": "Social Media",
+    "budget": 7625,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000065",
+    "campaign_name": "Campaign 65",
+    "channel": "Search",
+    "budget": 1924,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000066",
+    "campaign_name": "Campaign 66",
+    "channel": "Search",
+    "budget": 2786,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000067",
+    "campaign_name": "Campaign 67",
+    "channel": "Social Media",
+    "budget": 1191,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000068",
+    "campaign_name": "Campaign 68",
+    "channel": "Search",
+    "budget": 6876,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000069",
+    "campaign_name": "Campaign 69",
+    "channel": "Display",
+    "budget": 9706,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000070",
+    "campaign_name": "Campaign 70",
+    "channel": "Display",
+    "budget": 2026,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000071",
+    "campaign_name": "Campaign 71",
+    "channel": "Email",
+    "budget": 3509,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000072",
+    "campaign_name": "Campaign 72",
+    "channel": "Social Media",
+    "budget": 9036,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000073",
+    "campaign_name": "Campaign 73",
+    "channel": "Social Media",
+    "budget": 7608,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000074",
+    "campaign_name": "Campaign 74",
+    "channel": "Email",
+    "budget": 2612,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000075",
+    "campaign_name": "Campaign 75",
+    "channel": "Social Media",
+    "budget": 8749,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000076",
+    "campaign_name": "Campaign 76",
+    "channel": "Social Media",
+    "budget": 3418,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000077",
+    "campaign_name": "Campaign 77",
+    "channel": "Display",
+    "budget": 7947,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000078",
+    "campaign_name": "Campaign 78",
+    "channel": "Search",
+    "budget": 4069,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000079",
+    "campaign_name": "Campaign 79",
+    "channel": "Display",
+    "budget": 6442,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000080",
+    "campaign_name": "Campaign 80",
+    "channel": "Search",
+    "budget": 1838,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000081",
+    "campaign_name": "Campaign 81",
+    "channel": "Email",
+    "budget": 2581,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000082",
+    "campaign_name": "Campaign 82",
+    "channel": "Display",
+    "budget": 9466,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000083",
+    "campaign_name": "Campaign 83",
+    "channel": "Social Media",
+    "budget": 8773,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000084",
+    "campaign_name": "Campaign 84",
+    "channel": "Social Media",
+    "budget": 1955,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000085",
+    "campaign_name": "Campaign 85",
+    "channel": "Search",
+    "budget": 3926,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000086",
+    "campaign_name": "Campaign 86",
+    "channel": "Display",
+    "budget": 8829,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000087",
+    "campaign_name": "Campaign 87",
+    "channel": "Display",
+    "budget": 6992,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000088",
+    "campaign_name": "Campaign 88",
+    "channel": "Display",
+    "budget": 6312,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000089",
+    "campaign_name": "Campaign 89",
+    "channel": "Email",
+    "budget": 4665,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000090",
+    "campaign_name": "Campaign 90",
+    "channel": "Social Media",
+    "budget": 9976,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000091",
+    "campaign_name": "Campaign 91",
+    "channel": "Social Media",
+    "budget": 7383,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000092",
+    "campaign_name": "Campaign 92",
+    "channel": "Display",
+    "budget": 2145,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000093",
+    "campaign_name": "Campaign 93",
+    "channel": "Display",
+    "budget": 9309,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000094",
+    "campaign_name": "Campaign 94",
+    "channel": "Email",
+    "budget": 4038,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000095",
+    "campaign_name": "Campaign 95",
+    "channel": "Email",
+    "budget": 2246,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000096",
+    "campaign_name": "Campaign 96",
+    "channel": "Display",
+    "budget": 1645,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000097",
+    "campaign_name": "Campaign 97",
+    "channel": "Social Media",
+    "budget": 6114,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000098",
+    "campaign_name": "Campaign 98",
+    "channel": "Social Media",
+    "budget": 6531,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000099",
+    "campaign_name": "Campaign 99",
+    "channel": "Search",
+    "budget": 3928,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000100",
+    "campaign_name": "Campaign 100",
+    "channel": "Search",
+    "budget": 6721,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000101",
+    "campaign_name": "Campaign 101",
+    "channel": "Email",
+    "budget": 1898,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000102",
+    "campaign_name": "Campaign 102",
+    "channel": "Search",
+    "budget": 4955,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000103",
+    "campaign_name": "Campaign 103",
+    "channel": "Search",
+    "budget": 3057,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000104",
+    "campaign_name": "Campaign 104",
+    "channel": "Search",
+    "budget": 6858,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000105",
+    "campaign_name": "Campaign 105",
+    "channel": "Search",
+    "budget": 2062,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000106",
+    "campaign_name": "Campaign 106",
+    "channel": "Social Media",
+    "budget": 3541,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000107",
+    "campaign_name": "Campaign 107",
+    "channel": "Display",
+    "budget": 3952,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000108",
+    "campaign_name": "Campaign 108",
+    "channel": "Search",
+    "budget": 8391,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000109",
+    "campaign_name": "Campaign 109",
+    "channel": "Search",
+    "budget": 7358,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000110",
+    "campaign_name": "Campaign 110",
+    "channel": "Social Media",
+    "budget": 9693,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000111",
+    "campaign_name": "Campaign 111",
+    "channel": "Social Media",
+    "budget": 1515,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000112",
+    "campaign_name": "Campaign 112",
+    "channel": "Social Media",
+    "budget": 3003,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000113",
+    "campaign_name": "Campaign 113",
+    "channel": "Search",
+    "budget": 7191,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000114",
+    "campaign_name": "Campaign 114",
+    "channel": "Search",
+    "budget": 8871,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000115",
+    "campaign_name": "Campaign 115",
+    "channel": "Search",
+    "budget": 3129,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000116",
+    "campaign_name": "Campaign 116",
+    "channel": "Search",
+    "budget": 4204,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000117",
+    "campaign_name": "Campaign 117",
+    "channel": "Search",
+    "budget": 8911,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000118",
+    "campaign_name": "Campaign 118",
+    "channel": "Email",
+    "budget": 7001,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000119",
+    "campaign_name": "Campaign 119",
+    "channel": "Email",
+    "budget": 9075,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000120",
+    "campaign_name": "Campaign 120",
+    "channel": "Display",
+    "budget": 1274,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000121",
+    "campaign_name": "Campaign 121",
+    "channel": "Search",
+    "budget": 5862,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000122",
+    "campaign_name": "Campaign 122",
+    "channel": "Email",
+    "budget": 6456,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000123",
+    "campaign_name": "Campaign 123",
+    "channel": "Search",
+    "budget": 1076,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000124",
+    "campaign_name": "Campaign 124",
+    "channel": "Display",
+    "budget": 7239,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000125",
+    "campaign_name": "Campaign 125",
+    "channel": "Search",
+    "budget": 1581,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000126",
+    "campaign_name": "Campaign 126",
+    "channel": "Search",
+    "budget": 2880,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000127",
+    "campaign_name": "Campaign 127",
+    "channel": "Social Media",
+    "budget": 9602,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000128",
+    "campaign_name": "Campaign 128",
+    "channel": "Social Media",
+    "budget": 3371,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000129",
+    "campaign_name": "Campaign 129",
+    "channel": "Email",
+    "budget": 1999,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000130",
+    "campaign_name": "Campaign 130",
+    "channel": "Search",
+    "budget": 5554,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000131",
+    "campaign_name": "Campaign 131",
+    "channel": "Email",
+    "budget": 5248,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000132",
+    "campaign_name": "Campaign 132",
+    "channel": "Search",
+    "budget": 3867,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000133",
+    "campaign_name": "Campaign 133",
+    "channel": "Social Media",
+    "budget": 7374,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000134",
+    "campaign_name": "Campaign 134",
+    "channel": "Email",
+    "budget": 7011,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000135",
+    "campaign_name": "Campaign 135",
+    "channel": "Email",
+    "budget": 6796,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000136",
+    "campaign_name": "Campaign 136",
+    "channel": "Email",
+    "budget": 8443,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000137",
+    "campaign_name": "Campaign 137",
+    "channel": "Search",
+    "budget": 3802,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000138",
+    "campaign_name": "Campaign 138",
+    "channel": "Search",
+    "budget": 6802,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000139",
+    "campaign_name": "Campaign 139",
+    "channel": "Search",
+    "budget": 9911,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000140",
+    "campaign_name": "Campaign 140",
+    "channel": "Email",
+    "budget": 6442,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000141",
+    "campaign_name": "Campaign 141",
+    "channel": "Search",
+    "budget": 8836,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000142",
+    "campaign_name": "Campaign 142",
+    "channel": "Email",
+    "budget": 2681,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000143",
+    "campaign_name": "Campaign 143",
+    "channel": "Search",
+    "budget": 3416,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000144",
+    "campaign_name": "Campaign 144",
+    "channel": "Search",
+    "budget": 6941,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000145",
+    "campaign_name": "Campaign 145",
+    "channel": "Search",
+    "budget": 5040,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000146",
+    "campaign_name": "Campaign 146",
+    "channel": "Search",
+    "budget": 2453,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000147",
+    "campaign_name": "Campaign 147",
+    "channel": "Email",
+    "budget": 4751,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000148",
+    "campaign_name": "Campaign 148",
+    "channel": "Search",
+    "budget": 4452,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000149",
+    "campaign_name": "Campaign 149",
+    "channel": "Email",
+    "budget": 6076,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000150",
+    "campaign_name": "Campaign 150",
+    "channel": "Email",
+    "budget": 4597,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000151",
+    "campaign_name": "Campaign 151",
+    "channel": "Display",
+    "budget": 2529,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000152",
+    "campaign_name": "Campaign 152",
+    "channel": "Email",
+    "budget": 6498,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000153",
+    "campaign_name": "Campaign 153",
+    "channel": "Social Media",
+    "budget": 2972,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000154",
+    "campaign_name": "Campaign 154",
+    "channel": "Email",
+    "budget": 4789,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000155",
+    "campaign_name": "Campaign 155",
+    "channel": "Display",
+    "budget": 7761,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000156",
+    "campaign_name": "Campaign 156",
+    "channel": "Email",
+    "budget": 9198,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000157",
+    "campaign_name": "Campaign 157",
+    "channel": "Email",
+    "budget": 1863,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000158",
+    "campaign_name": "Campaign 158",
+    "channel": "Search",
+    "budget": 6461,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000159",
+    "campaign_name": "Campaign 159",
+    "channel": "Display",
+    "budget": 6781,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000160",
+    "campaign_name": "Campaign 160",
+    "channel": "Social Media",
+    "budget": 5545,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000161",
+    "campaign_name": "Campaign 161",
+    "channel": "Social Media",
+    "budget": 5689,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000162",
+    "campaign_name": "Campaign 162",
+    "channel": "Display",
+    "budget": 9431,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000163",
+    "campaign_name": "Campaign 163",
+    "channel": "Display",
+    "budget": 9877,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000164",
+    "campaign_name": "Campaign 164",
+    "channel": "Search",
+    "budget": 3766,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000165",
+    "campaign_name": "Campaign 165",
+    "channel": "Display",
+    "budget": 5194,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000166",
+    "campaign_name": "Campaign 166",
+    "channel": "Display",
+    "budget": 1678,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000167",
+    "campaign_name": "Campaign 167",
+    "channel": "Email",
+    "budget": 1002,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000168",
+    "campaign_name": "Campaign 168",
+    "channel": "Social Media",
+    "budget": 2123,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000169",
+    "campaign_name": "Campaign 169",
+    "channel": "Search",
+    "budget": 4702,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000170",
+    "campaign_name": "Campaign 170",
+    "channel": "Email",
+    "budget": 1885,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000171",
+    "campaign_name": "Campaign 171",
+    "channel": "Email",
+    "budget": 8717,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000172",
+    "campaign_name": "Campaign 172",
+    "channel": "Email",
+    "budget": 6084,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000173",
+    "campaign_name": "Campaign 173",
+    "channel": "Search",
+    "budget": 1398,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000174",
+    "campaign_name": "Campaign 174",
+    "channel": "Social Media",
+    "budget": 7081,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000175",
+    "campaign_name": "Campaign 175",
+    "channel": "Search",
+    "budget": 2459,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000176",
+    "campaign_name": "Campaign 176",
+    "channel": "Social Media",
+    "budget": 8545,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000177",
+    "campaign_name": "Campaign 177",
+    "channel": "Social Media",
+    "budget": 8422,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000178",
+    "campaign_name": "Campaign 178",
+    "channel": "Social Media",
+    "budget": 7167,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000179",
+    "campaign_name": "Campaign 179",
+    "channel": "Search",
+    "budget": 3233,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000180",
+    "campaign_name": "Campaign 180",
+    "channel": "Email",
+    "budget": 4014,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000181",
+    "campaign_name": "Campaign 181",
+    "channel": "Email",
+    "budget": 3519,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000182",
+    "campaign_name": "Campaign 182",
+    "channel": "Social Media",
+    "budget": 1952,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000183",
+    "campaign_name": "Campaign 183",
+    "channel": "Display",
+    "budget": 1633,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000184",
+    "campaign_name": "Campaign 184",
+    "channel": "Search",
+    "budget": 3737,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000185",
+    "campaign_name": "Campaign 185",
+    "channel": "Social Media",
+    "budget": 3751,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000186",
+    "campaign_name": "Campaign 186",
+    "channel": "Email",
+    "budget": 2431,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000187",
+    "campaign_name": "Campaign 187",
+    "channel": "Social Media",
+    "budget": 6970,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000188",
+    "campaign_name": "Campaign 188",
+    "channel": "Display",
+    "budget": 2507,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000189",
+    "campaign_name": "Campaign 189",
+    "channel": "Email",
+    "budget": 3571,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000190",
+    "campaign_name": "Campaign 190",
+    "channel": "Social Media",
+    "budget": 7533,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000191",
+    "campaign_name": "Campaign 191",
+    "channel": "Search",
+    "budget": 7438,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000192",
+    "campaign_name": "Campaign 192",
+    "channel": "Social Media",
+    "budget": 4850,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000193",
+    "campaign_name": "Campaign 193",
+    "channel": "Social Media",
+    "budget": 9537,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000194",
+    "campaign_name": "Campaign 194",
+    "channel": "Social Media",
+    "budget": 4052,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000195",
+    "campaign_name": "Campaign 195",
+    "channel": "Search",
+    "budget": 1160,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000196",
+    "campaign_name": "Campaign 196",
+    "channel": "Email",
+    "budget": 8007,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000197",
+    "campaign_name": "Campaign 197",
+    "channel": "Search",
+    "budget": 3263,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000198",
+    "campaign_name": "Campaign 198",
+    "channel": "Display",
+    "budget": 4300,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000199",
+    "campaign_name": "Campaign 199",
+    "channel": "Search",
+    "budget": 5620,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000200",
+    "campaign_name": "Campaign 200",
+    "channel": "Search",
+    "budget": 3562,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000201",
+    "campaign_name": "Campaign 201",
+    "channel": "Email",
+    "budget": 9898,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000202",
+    "campaign_name": "Campaign 202",
+    "channel": "Email",
+    "budget": 9645,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000203",
+    "campaign_name": "Campaign 203",
+    "channel": "Display",
+    "budget": 5261,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000204",
+    "campaign_name": "Campaign 204",
+    "channel": "Social Media",
+    "budget": 9658,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000205",
+    "campaign_name": "Campaign 205",
+    "channel": "Display",
+    "budget": 8496,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000206",
+    "campaign_name": "Campaign 206",
+    "channel": "Social Media",
+    "budget": 8880,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000207",
+    "campaign_name": "Campaign 207",
+    "channel": "Social Media",
+    "budget": 5950,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000208",
+    "campaign_name": "Campaign 208",
+    "channel": "Social Media",
+    "budget": 8984,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000209",
+    "campaign_name": "Campaign 209",
+    "channel": "Email",
+    "budget": 6303,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000210",
+    "campaign_name": "Campaign 210",
+    "channel": "Display",
+    "budget": 6963,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000211",
+    "campaign_name": "Campaign 211",
+    "channel": "Display",
+    "budget": 6200,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000212",
+    "campaign_name": "Campaign 212",
+    "channel": "Search",
+    "budget": 4801,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000213",
+    "campaign_name": "Campaign 213",
+    "channel": "Search",
+    "budget": 2470,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000214",
+    "campaign_name": "Campaign 214",
+    "channel": "Social Media",
+    "budget": 4690,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000215",
+    "campaign_name": "Campaign 215",
+    "channel": "Social Media",
+    "budget": 7918,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000216",
+    "campaign_name": "Campaign 216",
+    "channel": "Display",
+    "budget": 1008,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000217",
+    "campaign_name": "Campaign 217",
+    "channel": "Email",
+    "budget": 2433,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000218",
+    "campaign_name": "Campaign 218",
+    "channel": "Email",
+    "budget": 7547,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000219",
+    "campaign_name": "Campaign 219",
+    "channel": "Search",
+    "budget": 9322,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000220",
+    "campaign_name": "Campaign 220",
+    "channel": "Social Media",
+    "budget": 5386,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000221",
+    "campaign_name": "Campaign 221",
+    "channel": "Email",
+    "budget": 4907,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000222",
+    "campaign_name": "Campaign 222",
+    "channel": "Email",
+    "budget": 3356,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000223",
+    "campaign_name": "Campaign 223",
+    "channel": "Search",
+    "budget": 1639,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000224",
+    "campaign_name": "Campaign 224",
+    "channel": "Search",
+    "budget": 5541,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000225",
+    "campaign_name": "Campaign 225",
+    "channel": "Social Media",
+    "budget": 5021,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000226",
+    "campaign_name": "Campaign 226",
+    "channel": "Display",
+    "budget": 5528,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000227",
+    "campaign_name": "Campaign 227",
+    "channel": "Display",
+    "budget": 9598,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000228",
+    "campaign_name": "Campaign 228",
+    "channel": "Display",
+    "budget": 3620,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000229",
+    "campaign_name": "Campaign 229",
+    "channel": "Email",
+    "budget": 3758,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000230",
+    "campaign_name": "Campaign 230",
+    "channel": "Social Media",
+    "budget": 5377,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000231",
+    "campaign_name": "Campaign 231",
+    "channel": "Social Media",
+    "budget": 5460,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000232",
+    "campaign_name": "Campaign 232",
+    "channel": "Search",
+    "budget": 7631,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000233",
+    "campaign_name": "Campaign 233",
+    "channel": "Social Media",
+    "budget": 1866,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000234",
+    "campaign_name": "Campaign 234",
+    "channel": "Social Media",
+    "budget": 7708,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000235",
+    "campaign_name": "Campaign 235",
+    "channel": "Display",
+    "budget": 5075,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000236",
+    "campaign_name": "Campaign 236",
+    "channel": "Email",
+    "budget": 3754,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000237",
+    "campaign_name": "Campaign 237",
+    "channel": "Search",
+    "budget": 7469,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000238",
+    "campaign_name": "Campaign 238",
+    "channel": "Display",
+    "budget": 2717,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000239",
+    "campaign_name": "Campaign 239",
+    "channel": "Display",
+    "budget": 4661,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000240",
+    "campaign_name": "Campaign 240",
+    "channel": "Display",
+    "budget": 7422,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000241",
+    "campaign_name": "Campaign 241",
+    "channel": "Display",
+    "budget": 7960,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000242",
+    "campaign_name": "Campaign 242",
+    "channel": "Social Media",
+    "budget": 2797,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000243",
+    "campaign_name": "Campaign 243",
+    "channel": "Display",
+    "budget": 1723,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000244",
+    "campaign_name": "Campaign 244",
+    "channel": "Social Media",
+    "budget": 2262,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000245",
+    "campaign_name": "Campaign 245",
+    "channel": "Search",
+    "budget": 2159,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000246",
+    "campaign_name": "Campaign 246",
+    "channel": "Display",
+    "budget": 4305,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000247",
+    "campaign_name": "Campaign 247",
+    "channel": "Search",
+    "budget": 8406,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000248",
+    "campaign_name": "Campaign 248",
+    "channel": "Email",
+    "budget": 9846,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000249",
+    "campaign_name": "Campaign 249",
+    "channel": "Search",
+    "budget": 6758,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000250",
+    "campaign_name": "Campaign 250",
+    "channel": "Search",
+    "budget": 7090,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000251",
+    "campaign_name": "Campaign 251",
+    "channel": "Social Media",
+    "budget": 5198,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000252",
+    "campaign_name": "Campaign 252",
+    "channel": "Display",
+    "budget": 9057,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000253",
+    "campaign_name": "Campaign 253",
+    "channel": "Social Media",
+    "budget": 3263,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000254",
+    "campaign_name": "Campaign 254",
+    "channel": "Display",
+    "budget": 3983,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000255",
+    "campaign_name": "Campaign 255",
+    "channel": "Search",
+    "budget": 4556,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000256",
+    "campaign_name": "Campaign 256",
+    "channel": "Social Media",
+    "budget": 3831,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000257",
+    "campaign_name": "Campaign 257",
+    "channel": "Search",
+    "budget": 3311,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000258",
+    "campaign_name": "Campaign 258",
+    "channel": "Email",
+    "budget": 5541,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000259",
+    "campaign_name": "Campaign 259",
+    "channel": "Display",
+    "budget": 7130,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000260",
+    "campaign_name": "Campaign 260",
+    "channel": "Email",
+    "budget": 2796,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000261",
+    "campaign_name": "Campaign 261",
+    "channel": "Social Media",
+    "budget": 3644,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000262",
+    "campaign_name": "Campaign 262",
+    "channel": "Display",
+    "budget": 2734,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000263",
+    "campaign_name": "Campaign 263",
+    "channel": "Email",
+    "budget": 9144,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000264",
+    "campaign_name": "Campaign 264",
+    "channel": "Social Media",
+    "budget": 9463,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000265",
+    "campaign_name": "Campaign 265",
+    "channel": "Search",
+    "budget": 9758,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000266",
+    "campaign_name": "Campaign 266",
+    "channel": "Email",
+    "budget": 1164,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000267",
+    "campaign_name": "Campaign 267",
+    "channel": "Email",
+    "budget": 6876,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000268",
+    "campaign_name": "Campaign 268",
+    "channel": "Social Media",
+    "budget": 6093,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000269",
+    "campaign_name": "Campaign 269",
+    "channel": "Social Media",
+    "budget": 4561,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000270",
+    "campaign_name": "Campaign 270",
+    "channel": "Email",
+    "budget": 4341,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000271",
+    "campaign_name": "Campaign 271",
+    "channel": "Social Media",
+    "budget": 6498,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000272",
+    "campaign_name": "Campaign 272",
+    "channel": "Social Media",
+    "budget": 2292,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000273",
+    "campaign_name": "Campaign 273",
+    "channel": "Email",
+    "budget": 2271,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000274",
+    "campaign_name": "Campaign 274",
+    "channel": "Search",
+    "budget": 5832,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000275",
+    "campaign_name": "Campaign 275",
+    "channel": "Email",
+    "budget": 4236,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000276",
+    "campaign_name": "Campaign 276",
+    "channel": "Email",
+    "budget": 2401,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000277",
+    "campaign_name": "Campaign 277",
+    "channel": "Display",
+    "budget": 2754,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000278",
+    "campaign_name": "Campaign 278",
+    "channel": "Search",
+    "budget": 2508,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000279",
+    "campaign_name": "Campaign 279",
+    "channel": "Search",
+    "budget": 1739,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000280",
+    "campaign_name": "Campaign 280",
+    "channel": "Social Media",
+    "budget": 1620,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000281",
+    "campaign_name": "Campaign 281",
+    "channel": "Search",
+    "budget": 8438,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000282",
+    "campaign_name": "Campaign 282",
+    "channel": "Email",
+    "budget": 1709,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000283",
+    "campaign_name": "Campaign 283",
+    "channel": "Display",
+    "budget": 3095,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000284",
+    "campaign_name": "Campaign 284",
+    "channel": "Search",
+    "budget": 5500,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000285",
+    "campaign_name": "Campaign 285",
+    "channel": "Display",
+    "budget": 2085,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000286",
+    "campaign_name": "Campaign 286",
+    "channel": "Social Media",
+    "budget": 1351,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000287",
+    "campaign_name": "Campaign 287",
+    "channel": "Display",
+    "budget": 8580,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000288",
+    "campaign_name": "Campaign 288",
+    "channel": "Display",
+    "budget": 7182,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000289",
+    "campaign_name": "Campaign 289",
+    "channel": "Email",
+    "budget": 5412,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000290",
+    "campaign_name": "Campaign 290",
+    "channel": "Search",
+    "budget": 7603,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000291",
+    "campaign_name": "Campaign 291",
+    "channel": "Email",
+    "budget": 3413,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000292",
+    "campaign_name": "Campaign 292",
+    "channel": "Social Media",
+    "budget": 5252,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000293",
+    "campaign_name": "Campaign 293",
+    "channel": "Display",
+    "budget": 5911,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000294",
+    "campaign_name": "Campaign 294",
+    "channel": "Email",
+    "budget": 4650,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000295",
+    "campaign_name": "Campaign 295",
+    "channel": "Social Media",
+    "budget": 6699,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000296",
+    "campaign_name": "Campaign 296",
+    "channel": "Social Media",
+    "budget": 3888,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000297",
+    "campaign_name": "Campaign 297",
+    "channel": "Email",
+    "budget": 1557,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000298",
+    "campaign_name": "Campaign 298",
+    "channel": "Search",
+    "budget": 5776,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000299",
+    "campaign_name": "Campaign 299",
+    "channel": "Display",
+    "budget": 7855,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000300",
+    "campaign_name": "Campaign 300",
+    "channel": "Social Media",
+    "budget": 4868,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000301",
+    "campaign_name": "Campaign 301",
+    "channel": "Email",
+    "budget": 1692,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000302",
+    "campaign_name": "Campaign 302",
+    "channel": "Display",
+    "budget": 8799,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000303",
+    "campaign_name": "Campaign 303",
+    "channel": "Social Media",
+    "budget": 4959,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000304",
+    "campaign_name": "Campaign 304",
+    "channel": "Search",
+    "budget": 4877,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000305",
+    "campaign_name": "Campaign 305",
+    "channel": "Social Media",
+    "budget": 3974,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000306",
+    "campaign_name": "Campaign 306",
+    "channel": "Social Media",
+    "budget": 4329,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000307",
+    "campaign_name": "Campaign 307",
+    "channel": "Social Media",
+    "budget": 3180,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000308",
+    "campaign_name": "Campaign 308",
+    "channel": "Social Media",
+    "budget": 9088,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000309",
+    "campaign_name": "Campaign 309",
+    "channel": "Display",
+    "budget": 3711,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000310",
+    "campaign_name": "Campaign 310",
+    "channel": "Email",
+    "budget": 7659,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000311",
+    "campaign_name": "Campaign 311",
+    "channel": "Social Media",
+    "budget": 2602,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000312",
+    "campaign_name": "Campaign 312",
+    "channel": "Display",
+    "budget": 1031,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000313",
+    "campaign_name": "Campaign 313",
+    "channel": "Search",
+    "budget": 4881,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000314",
+    "campaign_name": "Campaign 314",
+    "channel": "Social Media",
+    "budget": 9096,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000315",
+    "campaign_name": "Campaign 315",
+    "channel": "Search",
+    "budget": 1927,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000316",
+    "campaign_name": "Campaign 316",
+    "channel": "Display",
+    "budget": 3052,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000317",
+    "campaign_name": "Campaign 317",
+    "channel": "Email",
+    "budget": 2437,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000318",
+    "campaign_name": "Campaign 318",
+    "channel": "Display",
+    "budget": 1660,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000319",
+    "campaign_name": "Campaign 319",
+    "channel": "Search",
+    "budget": 1578,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000320",
+    "campaign_name": "Campaign 320",
+    "channel": "Email",
+    "budget": 4105,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000321",
+    "campaign_name": "Campaign 321",
+    "channel": "Email",
+    "budget": 5451,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000322",
+    "campaign_name": "Campaign 322",
+    "channel": "Social Media",
+    "budget": 7583,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000323",
+    "campaign_name": "Campaign 323",
+    "channel": "Email",
+    "budget": 2426,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000324",
+    "campaign_name": "Campaign 324",
+    "channel": "Email",
+    "budget": 6579,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000325",
+    "campaign_name": "Campaign 325",
+    "channel": "Social Media",
+    "budget": 2021,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000326",
+    "campaign_name": "Campaign 326",
+    "channel": "Email",
+    "budget": 8620,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000327",
+    "campaign_name": "Campaign 327",
+    "channel": "Email",
+    "budget": 8320,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000328",
+    "campaign_name": "Campaign 328",
+    "channel": "Display",
+    "budget": 3570,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000329",
+    "campaign_name": "Campaign 329",
+    "channel": "Display",
+    "budget": 5434,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000330",
+    "campaign_name": "Campaign 330",
+    "channel": "Email",
+    "budget": 7684,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000331",
+    "campaign_name": "Campaign 331",
+    "channel": "Search",
+    "budget": 3836,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000332",
+    "campaign_name": "Campaign 332",
+    "channel": "Social Media",
+    "budget": 5407,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000333",
+    "campaign_name": "Campaign 333",
+    "channel": "Social Media",
+    "budget": 8421,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000334",
+    "campaign_name": "Campaign 334",
+    "channel": "Search",
+    "budget": 3765,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000335",
+    "campaign_name": "Campaign 335",
+    "channel": "Social Media",
+    "budget": 6073,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000336",
+    "campaign_name": "Campaign 336",
+    "channel": "Display",
+    "budget": 3343,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000337",
+    "campaign_name": "Campaign 337",
+    "channel": "Email",
+    "budget": 3822,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000338",
+    "campaign_name": "Campaign 338",
+    "channel": "Search",
+    "budget": 4374,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000339",
+    "campaign_name": "Campaign 339",
+    "channel": "Email",
+    "budget": 3844,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000340",
+    "campaign_name": "Campaign 340",
+    "channel": "Email",
+    "budget": 2048,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000341",
+    "campaign_name": "Campaign 341",
+    "channel": "Email",
+    "budget": 3183,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000342",
+    "campaign_name": "Campaign 342",
+    "channel": "Social Media",
+    "budget": 7147,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000343",
+    "campaign_name": "Campaign 343",
+    "channel": "Social Media",
+    "budget": 4361,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000344",
+    "campaign_name": "Campaign 344",
+    "channel": "Display",
+    "budget": 1075,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000345",
+    "campaign_name": "Campaign 345",
+    "channel": "Email",
+    "budget": 6804,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000346",
+    "campaign_name": "Campaign 346",
+    "channel": "Display",
+    "budget": 9334,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000347",
+    "campaign_name": "Campaign 347",
+    "channel": "Search",
+    "budget": 2409,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000348",
+    "campaign_name": "Campaign 348",
+    "channel": "Social Media",
+    "budget": 5459,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000349",
+    "campaign_name": "Campaign 349",
+    "channel": "Social Media",
+    "budget": 3206,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000350",
+    "campaign_name": "Campaign 350",
+    "channel": "Display",
+    "budget": 8823,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000351",
+    "campaign_name": "Campaign 351",
+    "channel": "Search",
+    "budget": 1366,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000352",
+    "campaign_name": "Campaign 352",
+    "channel": "Social Media",
+    "budget": 2921,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000353",
+    "campaign_name": "Campaign 353",
+    "channel": "Social Media",
+    "budget": 1678,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000354",
+    "campaign_name": "Campaign 354",
+    "channel": "Email",
+    "budget": 5249,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000355",
+    "campaign_name": "Campaign 355",
+    "channel": "Email",
+    "budget": 3530,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000356",
+    "campaign_name": "Campaign 356",
+    "channel": "Social Media",
+    "budget": 2257,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000357",
+    "campaign_name": "Campaign 357",
+    "channel": "Search",
+    "budget": 8956,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000358",
+    "campaign_name": "Campaign 358",
+    "channel": "Email",
+    "budget": 8052,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000359",
+    "campaign_name": "Campaign 359",
+    "channel": "Social Media",
+    "budget": 1174,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000360",
+    "campaign_name": "Campaign 360",
+    "channel": "Display",
+    "budget": 4486,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000361",
+    "campaign_name": "Campaign 361",
+    "channel": "Social Media",
+    "budget": 4601,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000362",
+    "campaign_name": "Campaign 362",
+    "channel": "Search",
+    "budget": 9289,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000363",
+    "campaign_name": "Campaign 363",
+    "channel": "Display",
+    "budget": 3389,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000364",
+    "campaign_name": "Campaign 364",
+    "channel": "Display",
+    "budget": 5002,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000365",
+    "campaign_name": "Campaign 365",
+    "channel": "Social Media",
+    "budget": 3750,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000366",
+    "campaign_name": "Campaign 366",
+    "channel": "Display",
+    "budget": 1373,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000367",
+    "campaign_name": "Campaign 367",
+    "channel": "Display",
+    "budget": 7386,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000368",
+    "campaign_name": "Campaign 368",
+    "channel": "Email",
+    "budget": 1346,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000369",
+    "campaign_name": "Campaign 369",
+    "channel": "Display",
+    "budget": 5222,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000370",
+    "campaign_name": "Campaign 370",
+    "channel": "Social Media",
+    "budget": 8270,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000371",
+    "campaign_name": "Campaign 371",
+    "channel": "Search",
+    "budget": 3245,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000372",
+    "campaign_name": "Campaign 372",
+    "channel": "Social Media",
+    "budget": 1417,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000373",
+    "campaign_name": "Campaign 373",
+    "channel": "Email",
+    "budget": 1044,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000374",
+    "campaign_name": "Campaign 374",
+    "channel": "Display",
+    "budget": 9498,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000375",
+    "campaign_name": "Campaign 375",
+    "channel": "Display",
+    "budget": 9137,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000376",
+    "campaign_name": "Campaign 376",
+    "channel": "Email",
+    "budget": 6869,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000377",
+    "campaign_name": "Campaign 377",
+    "channel": "Search",
+    "budget": 2693,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000378",
+    "campaign_name": "Campaign 378",
+    "channel": "Display",
+    "budget": 9311,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000379",
+    "campaign_name": "Campaign 379",
+    "channel": "Social Media",
+    "budget": 1125,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000380",
+    "campaign_name": "Campaign 380",
+    "channel": "Display",
+    "budget": 3469,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000381",
+    "campaign_name": "Campaign 381",
+    "channel": "Email",
+    "budget": 8843,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000382",
+    "campaign_name": "Campaign 382",
+    "channel": "Email",
+    "budget": 1101,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000383",
+    "campaign_name": "Campaign 383",
+    "channel": "Social Media",
+    "budget": 9565,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000384",
+    "campaign_name": "Campaign 384",
+    "channel": "Email",
+    "budget": 5170,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000385",
+    "campaign_name": "Campaign 385",
+    "channel": "Display",
+    "budget": 5368,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000386",
+    "campaign_name": "Campaign 386",
+    "channel": "Display",
+    "budget": 3284,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000387",
+    "campaign_name": "Campaign 387",
+    "channel": "Display",
+    "budget": 7696,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000388",
+    "campaign_name": "Campaign 388",
+    "channel": "Search",
+    "budget": 7955,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000389",
+    "campaign_name": "Campaign 389",
+    "channel": "Email",
+    "budget": 2579,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000390",
+    "campaign_name": "Campaign 390",
+    "channel": "Social Media",
+    "budget": 6569,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000391",
+    "campaign_name": "Campaign 391",
+    "channel": "Display",
+    "budget": 8416,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000392",
+    "campaign_name": "Campaign 392",
+    "channel": "Email",
+    "budget": 4301,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000393",
+    "campaign_name": "Campaign 393",
+    "channel": "Display",
+    "budget": 6814,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000394",
+    "campaign_name": "Campaign 394",
+    "channel": "Search",
+    "budget": 7879,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000395",
+    "campaign_name": "Campaign 395",
+    "channel": "Social Media",
+    "budget": 8079,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000396",
+    "campaign_name": "Campaign 396",
+    "channel": "Social Media",
+    "budget": 8835,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000397",
+    "campaign_name": "Campaign 397",
+    "channel": "Email",
+    "budget": 4913,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000398",
+    "campaign_name": "Campaign 398",
+    "channel": "Display",
+    "budget": 8416,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000399",
+    "campaign_name": "Campaign 399",
+    "channel": "Email",
+    "budget": 5201,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000400",
+    "campaign_name": "Campaign 400",
+    "channel": "Display",
+    "budget": 1672,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000401",
+    "campaign_name": "Campaign 401",
+    "channel": "Display",
+    "budget": 8256,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000402",
+    "campaign_name": "Campaign 402",
+    "channel": "Display",
+    "budget": 8386,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000403",
+    "campaign_name": "Campaign 403",
+    "channel": "Social Media",
+    "budget": 6375,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000404",
+    "campaign_name": "Campaign 404",
+    "channel": "Email",
+    "budget": 4051,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000405",
+    "campaign_name": "Campaign 405",
+    "channel": "Email",
+    "budget": 2007,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000406",
+    "campaign_name": "Campaign 406",
+    "channel": "Display",
+    "budget": 4126,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000407",
+    "campaign_name": "Campaign 407",
+    "channel": "Display",
+    "budget": 6406,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000408",
+    "campaign_name": "Campaign 408",
+    "channel": "Social Media",
+    "budget": 8724,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000409",
+    "campaign_name": "Campaign 409",
+    "channel": "Display",
+    "budget": 4658,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000410",
+    "campaign_name": "Campaign 410",
+    "channel": "Search",
+    "budget": 7311,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000411",
+    "campaign_name": "Campaign 411",
+    "channel": "Social Media",
+    "budget": 5528,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000412",
+    "campaign_name": "Campaign 412",
+    "channel": "Email",
+    "budget": 9633,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000413",
+    "campaign_name": "Campaign 413",
+    "channel": "Email",
+    "budget": 4716,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000414",
+    "campaign_name": "Campaign 414",
+    "channel": "Search",
+    "budget": 1450,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000415",
+    "campaign_name": "Campaign 415",
+    "channel": "Email",
+    "budget": 6826,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000416",
+    "campaign_name": "Campaign 416",
+    "channel": "Search",
+    "budget": 6805,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000417",
+    "campaign_name": "Campaign 417",
+    "channel": "Display",
+    "budget": 7958,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000418",
+    "campaign_name": "Campaign 418",
+    "channel": "Social Media",
+    "budget": 7608,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000419",
+    "campaign_name": "Campaign 419",
+    "channel": "Social Media",
+    "budget": 9358,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000420",
+    "campaign_name": "Campaign 420",
+    "channel": "Display",
+    "budget": 9268,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000421",
+    "campaign_name": "Campaign 421",
+    "channel": "Display",
+    "budget": 2238,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000422",
+    "campaign_name": "Campaign 422",
+    "channel": "Social Media",
+    "budget": 2045,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000423",
+    "campaign_name": "Campaign 423",
+    "channel": "Email",
+    "budget": 3257,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000424",
+    "campaign_name": "Campaign 424",
+    "channel": "Display",
+    "budget": 3055,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000425",
+    "campaign_name": "Campaign 425",
+    "channel": "Display",
+    "budget": 4327,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000426",
+    "campaign_name": "Campaign 426",
+    "channel": "Email",
+    "budget": 5115,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000427",
+    "campaign_name": "Campaign 427",
+    "channel": "Search",
+    "budget": 4470,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000428",
+    "campaign_name": "Campaign 428",
+    "channel": "Search",
+    "budget": 4302,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000429",
+    "campaign_name": "Campaign 429",
+    "channel": "Email",
+    "budget": 6165,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000430",
+    "campaign_name": "Campaign 430",
+    "channel": "Social Media",
+    "budget": 4220,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000431",
+    "campaign_name": "Campaign 431",
+    "channel": "Display",
+    "budget": 3482,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000432",
+    "campaign_name": "Campaign 432",
+    "channel": "Display",
+    "budget": 6415,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000433",
+    "campaign_name": "Campaign 433",
+    "channel": "Social Media",
+    "budget": 8072,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000434",
+    "campaign_name": "Campaign 434",
+    "channel": "Social Media",
+    "budget": 3053,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000435",
+    "campaign_name": "Campaign 435",
+    "channel": "Display",
+    "budget": 5076,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000436",
+    "campaign_name": "Campaign 436",
+    "channel": "Social Media",
+    "budget": 9685,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000437",
+    "campaign_name": "Campaign 437",
+    "channel": "Social Media",
+    "budget": 2243,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000438",
+    "campaign_name": "Campaign 438",
+    "channel": "Display",
+    "budget": 4218,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000439",
+    "campaign_name": "Campaign 439",
+    "channel": "Search",
+    "budget": 9986,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000440",
+    "campaign_name": "Campaign 440",
+    "channel": "Display",
+    "budget": 1875,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000441",
+    "campaign_name": "Campaign 441",
+    "channel": "Social Media",
+    "budget": 2723,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000442",
+    "campaign_name": "Campaign 442",
+    "channel": "Search",
+    "budget": 7664,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000443",
+    "campaign_name": "Campaign 443",
+    "channel": "Email",
+    "budget": 5587,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000444",
+    "campaign_name": "Campaign 444",
+    "channel": "Email",
+    "budget": 1533,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000445",
+    "campaign_name": "Campaign 445",
+    "channel": "Email",
+    "budget": 2571,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000446",
+    "campaign_name": "Campaign 446",
+    "channel": "Social Media",
+    "budget": 1236,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000447",
+    "campaign_name": "Campaign 447",
+    "channel": "Social Media",
+    "budget": 1361,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000448",
+    "campaign_name": "Campaign 448",
+    "channel": "Social Media",
+    "budget": 7897,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000449",
+    "campaign_name": "Campaign 449",
+    "channel": "Display",
+    "budget": 9099,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000450",
+    "campaign_name": "Campaign 450",
+    "channel": "Email",
+    "budget": 6450,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000451",
+    "campaign_name": "Campaign 451",
+    "channel": "Email",
+    "budget": 3521,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000452",
+    "campaign_name": "Campaign 452",
+    "channel": "Display",
+    "budget": 4894,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000453",
+    "campaign_name": "Campaign 453",
+    "channel": "Email",
+    "budget": 9202,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000454",
+    "campaign_name": "Campaign 454",
+    "channel": "Email",
+    "budget": 1740,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000455",
+    "campaign_name": "Campaign 455",
+    "channel": "Social Media",
+    "budget": 1847,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000456",
+    "campaign_name": "Campaign 456",
+    "channel": "Social Media",
+    "budget": 4093,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000457",
+    "campaign_name": "Campaign 457",
+    "channel": "Search",
+    "budget": 4920,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000458",
+    "campaign_name": "Campaign 458",
+    "channel": "Social Media",
+    "budget": 1868,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000459",
+    "campaign_name": "Campaign 459",
+    "channel": "Display",
+    "budget": 1685,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000460",
+    "campaign_name": "Campaign 460",
+    "channel": "Display",
+    "budget": 8316,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000461",
+    "campaign_name": "Campaign 461",
+    "channel": "Social Media",
+    "budget": 3733,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000462",
+    "campaign_name": "Campaign 462",
+    "channel": "Social Media",
+    "budget": 1917,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000463",
+    "campaign_name": "Campaign 463",
+    "channel": "Display",
+    "budget": 3830,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000464",
+    "campaign_name": "Campaign 464",
+    "channel": "Search",
+    "budget": 5800,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000465",
+    "campaign_name": "Campaign 465",
+    "channel": "Social Media",
+    "budget": 4776,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000466",
+    "campaign_name": "Campaign 466",
+    "channel": "Search",
+    "budget": 3907,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000467",
+    "campaign_name": "Campaign 467",
+    "channel": "Social Media",
+    "budget": 8751,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000468",
+    "campaign_name": "Campaign 468",
+    "channel": "Search",
+    "budget": 8641,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000469",
+    "campaign_name": "Campaign 469",
+    "channel": "Social Media",
+    "budget": 1886,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000470",
+    "campaign_name": "Campaign 470",
+    "channel": "Email",
+    "budget": 6071,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000471",
+    "campaign_name": "Campaign 471",
+    "channel": "Social Media",
+    "budget": 6710,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000472",
+    "campaign_name": "Campaign 472",
+    "channel": "Email",
+    "budget": 2235,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000473",
+    "campaign_name": "Campaign 473",
+    "channel": "Search",
+    "budget": 4958,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000474",
+    "campaign_name": "Campaign 474",
+    "channel": "Display",
+    "budget": 4173,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000475",
+    "campaign_name": "Campaign 475",
+    "channel": "Social Media",
+    "budget": 1059,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000476",
+    "campaign_name": "Campaign 476",
+    "channel": "Social Media",
+    "budget": 6163,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000477",
+    "campaign_name": "Campaign 477",
+    "channel": "Social Media",
+    "budget": 3798,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000478",
+    "campaign_name": "Campaign 478",
+    "channel": "Email",
+    "budget": 8957,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000479",
+    "campaign_name": "Campaign 479",
+    "channel": "Social Media",
+    "budget": 6187,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000480",
+    "campaign_name": "Campaign 480",
+    "channel": "Search",
+    "budget": 4934,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000481",
+    "campaign_name": "Campaign 481",
+    "channel": "Social Media",
+    "budget": 5608,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000482",
+    "campaign_name": "Campaign 482",
+    "channel": "Display",
+    "budget": 9541,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000483",
+    "campaign_name": "Campaign 483",
+    "channel": "Display",
+    "budget": 1964,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000484",
+    "campaign_name": "Campaign 484",
+    "channel": "Social Media",
+    "budget": 5885,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000485",
+    "campaign_name": "Campaign 485",
+    "channel": "Social Media",
+    "budget": 6529,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000486",
+    "campaign_name": "Campaign 486",
+    "channel": "Search",
+    "budget": 4226,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000487",
+    "campaign_name": "Campaign 487",
+    "channel": "Search",
+    "budget": 4654,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000488",
+    "campaign_name": "Campaign 488",
+    "channel": "Email",
+    "budget": 6427,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000489",
+    "campaign_name": "Campaign 489",
+    "channel": "Email",
+    "budget": 5224,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000490",
+    "campaign_name": "Campaign 490",
+    "channel": "Display",
+    "budget": 9030,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000491",
+    "campaign_name": "Campaign 491",
+    "channel": "Display",
+    "budget": 3775,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000492",
+    "campaign_name": "Campaign 492",
+    "channel": "Search",
+    "budget": 7838,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000493",
+    "campaign_name": "Campaign 493",
+    "channel": "Display",
+    "budget": 5126,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000494",
+    "campaign_name": "Campaign 494",
+    "channel": "Display",
+    "budget": 8918,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000495",
+    "campaign_name": "Campaign 495",
+    "channel": "Social Media",
+    "budget": 3634,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000496",
+    "campaign_name": "Campaign 496",
+    "channel": "Display",
+    "budget": 3753,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000497",
+    "campaign_name": "Campaign 497",
+    "channel": "Email",
+    "budget": 6670,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000498",
+    "campaign_name": "Campaign 498",
+    "channel": "Display",
+    "budget": 5903,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000499",
+    "campaign_name": "Campaign 499",
+    "channel": "Search",
+    "budget": 2662,
+    "currency": "INR"
+  },
+  {
+    "campaign_id": "CMP-2026-000500",
+    "campaign_name": "Campaign 500",
+    "channel": "Display",
+    "budget": 6842,
+    "currency": "INR"
+  }
+]

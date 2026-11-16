@@ -1,0 +1,3502 @@
+[
+  {
+    "cost_id": "COST-000001",
+    "campaign_id": "CMP-2026-000001",
+    "cost_amount": 9618,
+    "currency": "INR",
+    "cost_date": "2026-12-24"
+  },
+  {
+    "cost_id": "COST-000002",
+    "campaign_id": "CMP-2026-000002",
+    "cost_amount": 10867,
+    "currency": "INR",
+    "cost_date": "2026-03-22"
+  },
+  {
+    "cost_id": "COST-000003",
+    "campaign_id": "CMP-2026-000003",
+    "cost_amount": 10956,
+    "currency": "INR",
+    "cost_date": "2026-04-06"
+  },
+  {
+    "cost_id": "COST-000004",
+    "campaign_id": "CMP-2026-000004",
+    "cost_amount": 14457,
+    "currency": "INR",
+    "cost_date": "2026-02-09"
+  },
+  {
+    "cost_id": "COST-000005",
+    "campaign_id": "CMP-2026-000005",
+    "cost_amount": 3834,
+    "currency": "INR",
+    "cost_date": "2026-09-09"
+  },
+  {
+    "cost_id": "COST-000006",
+    "campaign_id": "CMP-2026-000006",
+    "cost_amount": 13988,
+    "currency": "INR",
+    "cost_date": "2026-10-02"
+  },
+  {
+    "cost_id": "COST-000007",
+    "campaign_id": "CMP-2026-000007",
+    "cost_amount": 14816,
+    "currency": "INR",
+    "cost_date": "2026-09-23"
+  },
+  {
+    "cost_id": "COST-000008",
+    "campaign_id": "CMP-2026-000008",
+    "cost_amount": 19062,
+    "currency": "INR",
+    "cost_date": "2026-11-11"
+  },
+  {
+    "cost_id": "COST-000009",
+    "campaign_id": "CMP-2026-000009",
+    "cost_amount": 14121,
+    "currency": "INR",
+    "cost_date": "2026-03-18"
+  },
+  {
+    "cost_id": "COST-000010",
+    "campaign_id": "CMP-2026-000010",
+    "cost_amount": 16621,
+    "currency": "INR",
+    "cost_date": "2026-04-26"
+  },
+  {
+    "cost_id": "COST-000011",
+    "campaign_id": "CMP-2026-000011",
+    "cost_amount": 1416,
+    "currency": "INR",
+    "cost_date": "2026-03-25"
+  },
+  {
+    "cost_id": "COST-000012",
+    "campaign_id": "CMP-2026-000012",
+    "cost_amount": 11950,
+    "currency": "INR",
+    "cost_date": "2026-10-05"
+  },
+  {
+    "cost_id": "COST-000013",
+    "campaign_id": "CMP-2026-000013",
+    "cost_amount": 5976,
+    "currency": "INR",
+    "cost_date": "2026-07-10"
+  },
+  {
+    "cost_id": "COST-000014",
+    "campaign_id": "CMP-2026-000014",
+    "cost_amount": 18472,
+    "currency": "INR",
+    "cost_date": "2026-08-02"
+  },
+  {
+    "cost_id": "COST-000015",
+    "campaign_id": "CMP-2026-000015",
+    "cost_amount": 1149,
+    "currency": "INR",
+    "cost_date": "2026-12-19"
+  },
+  {
+    "cost_id": "COST-000016",
+    "campaign_id": "CMP-2026-000016",
+    "cost_amount": 3614,
+    "currency": "INR",
+    "cost_date": "2026-11-12"
+  },
+  {
+    "cost_id": "COST-000017",
+    "campaign_id": "CMP-2026-000017",
+    "cost_amount": 10244,
+    "currency": "INR",
+    "cost_date": "2026-03-13"
+  },
+  {
+    "cost_id": "COST-000018",
+    "campaign_id": "CMP-2026-000018",
+    "cost_amount": 17666,
+    "currency": "INR",
+    "cost_date": "2026-07-14"
+  },
+  {
+    "cost_id": "COST-000019",
+    "campaign_id": "CMP-2026-000019",
+    "cost_amount": 10559,
+    "currency": "INR",
+    "cost_date": "2026-08-05"
+  },
+  {
+    "cost_id": "COST-000020",
+    "campaign_id": "CMP-2026-000020",
+    "cost_amount": 7569,
+    "currency": "INR",
+    "cost_date": "2026-09-08"
+  },
+  {
+    "cost_id": "COST-000021",
+    "campaign_id": "CMP-2026-000021",
+    "cost_amount": 3679,
+    "currency": "INR",
+    "cost_date": "2026-05-18"
+  },
+  {
+    "cost_id": "COST-000022",
+    "campaign_id": "CMP-2026-000022",
+    "cost_amount": 6496,
+    "currency": "INR",
+    "cost_date": "2026-01-08"
+  },
+  {
+    "cost_id": "COST-000023",
+    "campaign_id": "CMP-2026-000023",
+    "cost_amount": 15304,
+    "currency": "INR",
+    "cost_date": "2026-08-25"
+  },
+  {
+    "cost_id": "COST-000024",
+    "campaign_id": "CMP-2026-000024",
+    "cost_amount": 18898,
+    "currency": "INR",
+    "cost_date": "2026-09-15"
+  },
+  {
+    "cost_id": "COST-000025",
+    "campaign_id": "CMP-2026-000025",
+    "cost_amount": 6473,
+    "currency": "INR",
+    "cost_date": "2026-10-11"
+  },
+  {
+    "cost_id": "COST-000026",
+    "campaign_id": "CMP-2026-000026",
+    "cost_amount": 10807,
+    "currency": "INR",
+    "cost_date": "2026-12-04"
+  },
+  {
+    "cost_id": "COST-000027",
+    "campaign_id": "CMP-2026-000027",
+    "cost_amount": 10356,
+    "currency": "INR",
+    "cost_date": "2026-06-24"
+  },
+  {
+    "cost_id": "COST-000028",
+    "campaign_id": "CMP-2026-000028",
+    "cost_amount": 15627,
+    "currency": "INR",
+    "cost_date": "2026-03-26"
+  },
+  {
+    "cost_id": "COST-000029",
+    "campaign_id": "CMP-2026-000029",
+    "cost_amount": 18600,
+    "currency": "INR",
+    "cost_date": "2026-09-10"
+  },
+  {
+    "cost_id": "COST-000030",
+    "campaign_id": "CMP-2026-000030",
+    "cost_amount": 2052,
+    "currency": "INR",
+    "cost_date": "2026-11-11"
+  },
+  {
+    "cost_id": "COST-000031",
+    "campaign_id": "CMP-2026-000031",
+    "cost_amount": 15262,
+    "currency": "INR",
+    "cost_date": "2026-10-15"
+  },
+  {
+    "cost_id": "COST-000032",
+    "campaign_id": "CMP-2026-000032",
+    "cost_amount": 6476,
+    "currency": "INR",
+    "cost_date": "2026-09-24"
+  },
+  {
+    "cost_id": "COST-000033",
+    "campaign_id": "CMP-2026-000033",
+    "cost_amount": 2310,
+    "currency": "INR",
+    "cost_date": "2026-06-03"
+  },
+  {
+    "cost_id": "COST-000034",
+    "campaign_id": "CMP-2026-000034",
+    "cost_amount": 4597,
+    "currency": "INR",
+    "cost_date": "2026-12-23"
+  },
+  {
+    "cost_id": "COST-000035",
+    "campaign_id": "CMP-2026-000035",
+    "cost_amount": 9403,
+    "currency": "INR",
+    "cost_date": "2026-09-14"
+  },
+  {
+    "cost_id": "COST-000036",
+    "campaign_id": "CMP-2026-000036",
+    "cost_amount": 10765,
+    "currency": "INR",
+    "cost_date": "2026-01-28"
+  },
+  {
+    "cost_id": "COST-000037",
+    "campaign_id": "CMP-2026-000037",
+    "cost_amount": 17119,
+    "currency": "INR",
+    "cost_date": "2026-08-21"
+  },
+  {
+    "cost_id": "COST-000038",
+    "campaign_id": "CMP-2026-000038",
+    "cost_amount": 6024,
+    "currency": "INR",
+    "cost_date": "2026-03-01"
+  },
+  {
+    "cost_id": "COST-000039",
+    "campaign_id": "CMP-2026-000039",
+    "cost_amount": 16931,
+    "currency": "INR",
+    "cost_date": "2026-02-28"
+  },
+  {
+    "cost_id": "COST-000040",
+    "campaign_id": "CMP-2026-000040",
+    "cost_amount": 8817,
+    "currency": "INR",
+    "cost_date": "2026-03-02"
+  },
+  {
+    "cost_id": "COST-000041",
+    "campaign_id": "CMP-2026-000041",
+    "cost_amount": 16231,
+    "currency": "INR",
+    "cost_date": "2026-10-16"
+  },
+  {
+    "cost_id": "COST-000042",
+    "campaign_id": "CMP-2026-000042",
+    "cost_amount": 6272,
+    "currency": "INR",
+    "cost_date": "2026-06-15"
+  },
+  {
+    "cost_id": "COST-000043",
+    "campaign_id": "CMP-2026-000043",
+    "cost_amount": 10497,
+    "currency": "INR",
+    "cost_date": "2026-12-28"
+  },
+  {
+    "cost_id": "COST-000044",
+    "campaign_id": "CMP-2026-000044",
+    "cost_amount": 16366,
+    "currency": "INR",
+    "cost_date": "2026-02-19"
+  },
+  {
+    "cost_id": "COST-000045",
+    "campaign_id": "CMP-2026-000045",
+    "cost_amount": 3951,
+    "currency": "INR",
+    "cost_date": "2026-12-16"
+  },
+  {
+    "cost_id": "COST-000046",
+    "campaign_id": "CMP-2026-000046",
+    "cost_amount": 8396,
+    "currency": "INR",
+    "cost_date": "2026-05-09"
+  },
+  {
+    "cost_id": "COST-000047",
+    "campaign_id": "CMP-2026-000047",
+    "cost_amount": 3606,
+    "currency": "INR",
+    "cost_date": "2026-07-09"
+  },
+  {
+    "cost_id": "COST-000048",
+    "campaign_id": "CMP-2026-000048",
+    "cost_amount": 16789,
+    "currency": "INR",
+    "cost_date": "2026-01-24"
+  },
+  {
+    "cost_id": "COST-000049",
+    "campaign_id": "CMP-2026-000049",
+    "cost_amount": 6525,
+    "currency": "INR",
+    "cost_date": "2026-09-24"
+  },
+  {
+    "cost_id": "COST-000050",
+    "campaign_id": "CMP-2026-000050",
+    "cost_amount": 2110,
+    "currency": "INR",
+    "cost_date": "2026-06-12"
+  },
+  {
+    "cost_id": "COST-000051",
+    "campaign_id": "CMP-2026-000051",
+    "cost_amount": 10823,
+    "currency": "INR",
+    "cost_date": "2026-06-10"
+  },
+  {
+    "cost_id": "COST-000052",
+    "campaign_id": "CMP-2026-000052",
+    "cost_amount": 2814,
+    "currency": "INR",
+    "cost_date": "2026-09-14"
+  },
+  {
+    "cost_id": "COST-000053",
+    "campaign_id": "CMP-2026-000053",
+    "cost_amount": 5439,
+    "currency": "INR",
+    "cost_date": "2026-03-13"
+  },
+  {
+    "cost_id": "COST-000054",
+    "campaign_id": "CMP-2026-000054",
+    "cost_amount": 10961,
+    "currency": "INR",
+    "cost_date": "2026-05-17"
+  },
+  {
+    "cost_id": "COST-000055",
+    "campaign_id": "CMP-2026-000055",
+    "cost_amount": 10428,
+    "currency": "INR",
+    "cost_date": "2026-06-21"
+  },
+  {
+    "cost_id": "COST-000056",
+    "campaign_id": "CMP-2026-000056",
+    "cost_amount": 15328,
+    "currency": "INR",
+    "cost_date": "2026-09-10"
+  },
+  {
+    "cost_id": "COST-000057",
+    "campaign_id": "CMP-2026-000057",
+    "cost_amount": 6311,
+    "currency": "INR",
+    "cost_date": "2026-07-14"
+  },
+  {
+    "cost_id": "COST-000058",
+    "campaign_id": "CMP-2026-000058",
+    "cost_amount": 17462,
+    "currency": "INR",
+    "cost_date": "2026-04-05"
+  },
+  {
+    "cost_id": "COST-000059",
+    "campaign_id": "CMP-2026-000059",
+    "cost_amount": 14425,
+    "currency": "INR",
+    "cost_date": "2026-07-04"
+  },
+  {
+    "cost_id": "COST-000060",
+    "campaign_id": "CMP-2026-000060",
+    "cost_amount": 14619,
+    "currency": "INR",
+    "cost_date": "2026-01-02"
+  },
+  {
+    "cost_id": "COST-000061",
+    "campaign_id": "CMP-2026-000061",
+    "cost_amount": 10240,
+    "currency": "INR",
+    "cost_date": "2026-07-09"
+  },
+  {
+    "cost_id": "COST-000062",
+    "campaign_id": "CMP-2026-000062",
+    "cost_amount": 17172,
+    "currency": "INR",
+    "cost_date": "2026-05-08"
+  },
+  {
+    "cost_id": "COST-000063",
+    "campaign_id": "CMP-2026-000063",
+    "cost_amount": 3034,
+    "currency": "INR",
+    "cost_date": "2026-06-13"
+  },
+  {
+    "cost_id": "COST-000064",
+    "campaign_id": "CMP-2026-000064",
+    "cost_amount": 4842,
+    "currency": "INR",
+    "cost_date": "2026-02-01"
+  },
+  {
+    "cost_id": "COST-000065",
+    "campaign_id": "CMP-2026-000065",
+    "cost_amount": 12628,
+    "currency": "INR",
+    "cost_date": "2026-02-24"
+  },
+  {
+    "cost_id": "COST-000066",
+    "campaign_id": "CMP-2026-000066",
+    "cost_amount": 7991,
+    "currency": "INR",
+    "cost_date": "2026-02-16"
+  },
+  {
+    "cost_id": "COST-000067",
+    "campaign_id": "CMP-2026-000067",
+    "cost_amount": 10957,
+    "currency": "INR",
+    "cost_date": "2026-05-15"
+  },
+  {
+    "cost_id": "COST-000068",
+    "campaign_id": "CMP-2026-000068",
+    "cost_amount": 18922,
+    "currency": "INR",
+    "cost_date": "2026-04-08"
+  },
+  {
+    "cost_id": "COST-000069",
+    "campaign_id": "CMP-2026-000069",
+    "cost_amount": 5638,
+    "currency": "INR",
+    "cost_date": "2026-08-10"
+  },
+  {
+    "cost_id": "COST-000070",
+    "campaign_id": "CMP-2026-000070",
+    "cost_amount": 15920,
+    "currency": "INR",
+    "cost_date": "2026-01-26"
+  },
+  {
+    "cost_id": "COST-000071",
+    "campaign_id": "CMP-2026-000071",
+    "cost_amount": 7813,
+    "currency": "INR",
+    "cost_date": "2026-04-24"
+  },
+  {
+    "cost_id": "COST-000072",
+    "campaign_id": "CMP-2026-000072",
+    "cost_amount": 13482,
+    "currency": "INR",
+    "cost_date": "2026-06-16"
+  },
+  {
+    "cost_id": "COST-000073",
+    "campaign_id": "CMP-2026-000073",
+    "cost_amount": 12441,
+    "currency": "INR",
+    "cost_date": "2026-12-01"
+  },
+  {
+    "cost_id": "COST-000074",
+    "campaign_id": "CMP-2026-000074",
+    "cost_amount": 15021,
+    "currency": "INR",
+    "cost_date": "2026-01-22"
+  },
+  {
+    "cost_id": "COST-000075",
+    "campaign_id": "CMP-2026-000075",
+    "cost_amount": 4701,
+    "currency": "INR",
+    "cost_date": "2026-05-16"
+  },
+  {
+    "cost_id": "COST-000076",
+    "campaign_id": "CMP-2026-000076",
+    "cost_amount": 12373,
+    "currency": "INR",
+    "cost_date": "2026-11-08"
+  },
+  {
+    "cost_id": "COST-000077",
+    "campaign_id": "CMP-2026-000077",
+    "cost_amount": 12429,
+    "currency": "INR",
+    "cost_date": "2026-01-10"
+  },
+  {
+    "cost_id": "COST-000078",
+    "campaign_id": "CMP-2026-000078",
+    "cost_amount": 9563,
+    "currency": "INR",
+    "cost_date": "2026-04-17"
+  },
+  {
+    "cost_id": "COST-000079",
+    "campaign_id": "CMP-2026-000079",
+    "cost_amount": 10445,
+    "currency": "INR",
+    "cost_date": "2026-05-06"
+  },
+  {
+    "cost_id": "COST-000080",
+    "campaign_id": "CMP-2026-000080",
+    "cost_amount": 1511,
+    "currency": "INR",
+    "cost_date": "2026-01-25"
+  },
+  {
+    "cost_id": "COST-000081",
+    "campaign_id": "CMP-2026-000081",
+    "cost_amount": 3690,
+    "currency": "INR",
+    "cost_date": "2026-08-26"
+  },
+  {
+    "cost_id": "COST-000082",
+    "campaign_id": "CMP-2026-000082",
+    "cost_amount": 3101,
+    "currency": "INR",
+    "cost_date": "2026-07-27"
+  },
+  {
+    "cost_id": "COST-000083",
+    "campaign_id": "CMP-2026-000083",
+    "cost_amount": 5112,
+    "currency": "INR",
+    "cost_date": "2026-10-14"
+  },
+  {
+    "cost_id": "COST-000084",
+    "campaign_id": "CMP-2026-000084",
+    "cost_amount": 3152,
+    "currency": "INR",
+    "cost_date": "2026-11-27"
+  },
+  {
+    "cost_id": "COST-000085",
+    "campaign_id": "CMP-2026-000085",
+    "cost_amount": 11023,
+    "currency": "INR",
+    "cost_date": "2026-06-23"
+  },
+  {
+    "cost_id": "COST-000086",
+    "campaign_id": "CMP-2026-000086",
+    "cost_amount": 12400,
+    "currency": "INR",
+    "cost_date": "2026-05-19"
+  },
+  {
+    "cost_id": "COST-000087",
+    "campaign_id": "CMP-2026-000087",
+    "cost_amount": 6469,
+    "currency": "INR",
+    "cost_date": "2026-01-24"
+  },
+  {
+    "cost_id": "COST-000088",
+    "campaign_id": "CMP-2026-000088",
+    "cost_amount": 12184,
+    "currency": "INR",
+    "cost_date": "2026-04-05"
+  },
+  {
+    "cost_id": "COST-000089",
+    "campaign_id": "CMP-2026-000089",
+    "cost_amount": 18510,
+    "currency": "INR",
+    "cost_date": "2026-06-12"
+  },
+  {
+    "cost_id": "COST-000090",
+    "campaign_id": "CMP-2026-000090",
+    "cost_amount": 1101,
+    "currency": "INR",
+    "cost_date": "2026-04-13"
+  },
+  {
+    "cost_id": "COST-000091",
+    "campaign_id": "CMP-2026-000091",
+    "cost_amount": 13629,
+    "currency": "INR",
+    "cost_date": "2026-12-17"
+  },
+  {
+    "cost_id": "COST-000092",
+    "campaign_id": "CMP-2026-000092",
+    "cost_amount": 7939,
+    "currency": "INR",
+    "cost_date": "2026-09-28"
+  },
+  {
+    "cost_id": "COST-000093",
+    "campaign_id": "CMP-2026-000093",
+    "cost_amount": 9528,
+    "currency": "INR",
+    "cost_date": "2026-03-20"
+  },
+  {
+    "cost_id": "COST-000094",
+    "campaign_id": "CMP-2026-000094",
+    "cost_amount": 15936,
+    "currency": "INR",
+    "cost_date": "2026-02-01"
+  },
+  {
+    "cost_id": "COST-000095",
+    "campaign_id": "CMP-2026-000095",
+    "cost_amount": 16925,
+    "currency": "INR",
+    "cost_date": "2026-06-20"
+  },
+  {
+    "cost_id": "COST-000096",
+    "campaign_id": "CMP-2026-000096",
+    "cost_amount": 12675,
+    "currency": "INR",
+    "cost_date": "2026-02-01"
+  },
+  {
+    "cost_id": "COST-000097",
+    "campaign_id": "CMP-2026-000097",
+    "cost_amount": 12072,
+    "currency": "INR",
+    "cost_date": "2026-12-11"
+  },
+  {
+    "cost_id": "COST-000098",
+    "campaign_id": "CMP-2026-000098",
+    "cost_amount": 1529,
+    "currency": "INR",
+    "cost_date": "2026-05-21"
+  },
+  {
+    "cost_id": "COST-000099",
+    "campaign_id": "CMP-2026-000099",
+    "cost_amount": 6855,
+    "currency": "INR",
+    "cost_date": "2026-05-04"
+  },
+  {
+    "cost_id": "COST-000100",
+    "campaign_id": "CMP-2026-000100",
+    "cost_amount": 14079,
+    "currency": "INR",
+    "cost_date": "2026-06-24"
+  },
+  {
+    "cost_id": "COST-000101",
+    "campaign_id": "CMP-2026-000101",
+    "cost_amount": 12832,
+    "currency": "INR",
+    "cost_date": "2026-08-01"
+  },
+  {
+    "cost_id": "COST-000102",
+    "campaign_id": "CMP-2026-000102",
+    "cost_amount": 2625,
+    "currency": "INR",
+    "cost_date": "2026-12-09"
+  },
+  {
+    "cost_id": "COST-000103",
+    "campaign_id": "CMP-2026-000103",
+    "cost_amount": 1768,
+    "currency": "INR",
+    "cost_date": "2026-11-21"
+  },
+  {
+    "cost_id": "COST-000104",
+    "campaign_id": "CMP-2026-000104",
+    "cost_amount": 19854,
+    "currency": "INR",
+    "cost_date": "2026-04-15"
+  },
+  {
+    "cost_id": "COST-000105",
+    "campaign_id": "CMP-2026-000105",
+    "cost_amount": 5481,
+    "currency": "INR",
+    "cost_date": "2026-10-07"
+  },
+  {
+    "cost_id": "COST-000106",
+    "campaign_id": "CMP-2026-000106",
+    "cost_amount": 19171,
+    "currency": "INR",
+    "cost_date": "2026-03-02"
+  },
+  {
+    "cost_id": "COST-000107",
+    "campaign_id": "CMP-2026-000107",
+    "cost_amount": 9205,
+    "currency": "INR",
+    "cost_date": "2026-12-14"
+  },
+  {
+    "cost_id": "COST-000108",
+    "campaign_id": "CMP-2026-000108",
+    "cost_amount": 16777,
+    "currency": "INR",
+    "cost_date": "2026-01-16"
+  },
+  {
+    "cost_id": "COST-000109",
+    "campaign_id": "CMP-2026-000109",
+    "cost_amount": 8299,
+    "currency": "INR",
+    "cost_date": "2026-12-25"
+  },
+  {
+    "cost_id": "COST-000110",
+    "campaign_id": "CMP-2026-000110",
+    "cost_amount": 10711,
+    "currency": "INR",
+    "cost_date": "2026-09-05"
+  },
+  {
+    "cost_id": "COST-000111",
+    "campaign_id": "CMP-2026-000111",
+    "cost_amount": 19095,
+    "currency": "INR",
+    "cost_date": "2026-07-20"
+  },
+  {
+    "cost_id": "COST-000112",
+    "campaign_id": "CMP-2026-000112",
+    "cost_amount": 9302,
+    "currency": "INR",
+    "cost_date": "2026-12-05"
+  },
+  {
+    "cost_id": "COST-000113",
+    "campaign_id": "CMP-2026-000113",
+    "cost_amount": 5667,
+    "currency": "INR",
+    "cost_date": "2026-06-05"
+  },
+  {
+    "cost_id": "COST-000114",
+    "campaign_id": "CMP-2026-000114",
+    "cost_amount": 2084,
+    "currency": "INR",
+    "cost_date": "2026-01-24"
+  },
+  {
+    "cost_id": "COST-000115",
+    "campaign_id": "CMP-2026-000115",
+    "cost_amount": 16822,
+    "currency": "INR",
+    "cost_date": "2026-06-17"
+  },
+  {
+    "cost_id": "COST-000116",
+    "campaign_id": "CMP-2026-000116",
+    "cost_amount": 16746,
+    "currency": "INR",
+    "cost_date": "2026-02-24"
+  },
+  {
+    "cost_id": "COST-000117",
+    "campaign_id": "CMP-2026-000117",
+    "cost_amount": 3578,
+    "currency": "INR",
+    "cost_date": "2026-01-26"
+  },
+  {
+    "cost_id": "COST-000118",
+    "campaign_id": "CMP-2026-000118",
+    "cost_amount": 3116,
+    "currency": "INR",
+    "cost_date": "2026-02-15"
+  },
+  {
+    "cost_id": "COST-000119",
+    "campaign_id": "CMP-2026-000119",
+    "cost_amount": 2567,
+    "currency": "INR",
+    "cost_date": "2026-09-22"
+  },
+  {
+    "cost_id": "COST-000120",
+    "campaign_id": "CMP-2026-000120",
+    "cost_amount": 9948,
+    "currency": "INR",
+    "cost_date": "2026-02-28"
+  },
+  {
+    "cost_id": "COST-000121",
+    "campaign_id": "CMP-2026-000121",
+    "cost_amount": 11559,
+    "currency": "INR",
+    "cost_date": "2026-08-26"
+  },
+  {
+    "cost_id": "COST-000122",
+    "campaign_id": "CMP-2026-000122",
+    "cost_amount": 16607,
+    "currency": "INR",
+    "cost_date": "2026-01-21"
+  },
+  {
+    "cost_id": "COST-000123",
+    "campaign_id": "CMP-2026-000123",
+    "cost_amount": 1897,
+    "currency": "INR",
+    "cost_date": "2026-02-24"
+  },
+  {
+    "cost_id": "COST-000124",
+    "campaign_id": "CMP-2026-000124",
+    "cost_amount": 10726,
+    "currency": "INR",
+    "cost_date": "2026-12-17"
+  },
+  {
+    "cost_id": "COST-000125",
+    "campaign_id": "CMP-2026-000125",
+    "cost_amount": 15313,
+    "currency": "INR",
+    "cost_date": "2026-08-11"
+  },
+  {
+    "cost_id": "COST-000126",
+    "campaign_id": "CMP-2026-000126",
+    "cost_amount": 9670,
+    "currency": "INR",
+    "cost_date": "2026-12-18"
+  },
+  {
+    "cost_id": "COST-000127",
+    "campaign_id": "CMP-2026-000127",
+    "cost_amount": 13175,
+    "currency": "INR",
+    "cost_date": "2026-03-04"
+  },
+  {
+    "cost_id": "COST-000128",
+    "campaign_id": "CMP-2026-000128",
+    "cost_amount": 12641,
+    "currency": "INR",
+    "cost_date": "2026-05-26"
+  },
+  {
+    "cost_id": "COST-000129",
+    "campaign_id": "CMP-2026-000129",
+    "cost_amount": 2123,
+    "currency": "INR",
+    "cost_date": "2026-11-03"
+  },
+  {
+    "cost_id": "COST-000130",
+    "campaign_id": "CMP-2026-000130",
+    "cost_amount": 3662,
+    "currency": "INR",
+    "cost_date": "2026-09-15"
+  },
+  {
+    "cost_id": "COST-000131",
+    "campaign_id": "CMP-2026-000131",
+    "cost_amount": 14534,
+    "currency": "INR",
+    "cost_date": "2026-05-09"
+  },
+  {
+    "cost_id": "COST-000132",
+    "campaign_id": "CMP-2026-000132",
+    "cost_amount": 16581,
+    "currency": "INR",
+    "cost_date": "2026-07-26"
+  },
+  {
+    "cost_id": "COST-000133",
+    "campaign_id": "CMP-2026-000133",
+    "cost_amount": 16242,
+    "currency": "INR",
+    "cost_date": "2026-07-20"
+  },
+  {
+    "cost_id": "COST-000134",
+    "campaign_id": "CMP-2026-000134",
+    "cost_amount": 18914,
+    "currency": "INR",
+    "cost_date": "2026-03-20"
+  },
+  {
+    "cost_id": "COST-000135",
+    "campaign_id": "CMP-2026-000135",
+    "cost_amount": 5993,
+    "currency": "INR",
+    "cost_date": "2026-05-22"
+  },
+  {
+    "cost_id": "COST-000136",
+    "campaign_id": "CMP-2026-000136",
+    "cost_amount": 6191,
+    "currency": "INR",
+    "cost_date": "2026-08-09"
+  },
+  {
+    "cost_id": "COST-000137",
+    "campaign_id": "CMP-2026-000137",
+    "cost_amount": 10396,
+    "currency": "INR",
+    "cost_date": "2026-09-21"
+  },
+  {
+    "cost_id": "COST-000138",
+    "campaign_id": "CMP-2026-000138",
+    "cost_amount": 8027,
+    "currency": "INR",
+    "cost_date": "2026-12-04"
+  },
+  {
+    "cost_id": "COST-000139",
+    "campaign_id": "CMP-2026-000139",
+    "cost_amount": 16245,
+    "currency": "INR",
+    "cost_date": "2026-06-25"
+  },
+  {
+    "cost_id": "COST-000140",
+    "campaign_id": "CMP-2026-000140",
+    "cost_amount": 1850,
+    "currency": "INR",
+    "cost_date": "2026-11-03"
+  },
+  {
+    "cost_id": "COST-000141",
+    "campaign_id": "CMP-2026-000141",
+    "cost_amount": 19385,
+    "currency": "INR",
+    "cost_date": "2026-01-05"
+  },
+  {
+    "cost_id": "COST-000142",
+    "campaign_id": "CMP-2026-000142",
+    "cost_amount": 9697,
+    "currency": "INR",
+    "cost_date": "2026-01-04"
+  },
+  {
+    "cost_id": "COST-000143",
+    "campaign_id": "CMP-2026-000143",
+    "cost_amount": 1534,
+    "currency": "INR",
+    "cost_date": "2026-07-13"
+  },
+  {
+    "cost_id": "COST-000144",
+    "campaign_id": "CMP-2026-000144",
+    "cost_amount": 6743,
+    "currency": "INR",
+    "cost_date": "2026-03-20"
+  },
+  {
+    "cost_id": "COST-000145",
+    "campaign_id": "CMP-2026-000145",
+    "cost_amount": 5866,
+    "currency": "INR",
+    "cost_date": "2026-03-25"
+  },
+  {
+    "cost_id": "COST-000146",
+    "campaign_id": "CMP-2026-000146",
+    "cost_amount": 8701,
+    "currency": "INR",
+    "cost_date": "2026-11-26"
+  },
+  {
+    "cost_id": "COST-000147",
+    "campaign_id": "CMP-2026-000147",
+    "cost_amount": 6407,
+    "currency": "INR",
+    "cost_date": "2026-09-13"
+  },
+  {
+    "cost_id": "COST-000148",
+    "campaign_id": "CMP-2026-000148",
+    "cost_amount": 9285,
+    "currency": "INR",
+    "cost_date": "2026-03-05"
+  },
+  {
+    "cost_id": "COST-000149",
+    "campaign_id": "CMP-2026-000149",
+    "cost_amount": 15200,
+    "currency": "INR",
+    "cost_date": "2026-03-11"
+  },
+  {
+    "cost_id": "COST-000150",
+    "campaign_id": "CMP-2026-000150",
+    "cost_amount": 3234,
+    "currency": "INR",
+    "cost_date": "2026-12-17"
+  },
+  {
+    "cost_id": "COST-000151",
+    "campaign_id": "CMP-2026-000151",
+    "cost_amount": 18912,
+    "currency": "INR",
+    "cost_date": "2026-07-14"
+  },
+  {
+    "cost_id": "COST-000152",
+    "campaign_id": "CMP-2026-000152",
+    "cost_amount": 3069,
+    "currency": "INR",
+    "cost_date": "2026-04-26"
+  },
+  {
+    "cost_id": "COST-000153",
+    "campaign_id": "CMP-2026-000153",
+    "cost_amount": 9207,
+    "currency": "INR",
+    "cost_date": "2026-04-04"
+  },
+  {
+    "cost_id": "COST-000154",
+    "campaign_id": "CMP-2026-000154",
+    "cost_amount": 7528,
+    "currency": "INR",
+    "cost_date": "2026-02-04"
+  },
+  {
+    "cost_id": "COST-000155",
+    "campaign_id": "CMP-2026-000155",
+    "cost_amount": 3898,
+    "currency": "INR",
+    "cost_date": "2026-09-04"
+  },
+  {
+    "cost_id": "COST-000156",
+    "campaign_id": "CMP-2026-000156",
+    "cost_amount": 19897,
+    "currency": "INR",
+    "cost_date": "2026-04-19"
+  },
+  {
+    "cost_id": "COST-000157",
+    "campaign_id": "CMP-2026-000157",
+    "cost_amount": 16292,
+    "currency": "INR",
+    "cost_date": "2026-02-11"
+  },
+  {
+    "cost_id": "COST-000158",
+    "campaign_id": "CMP-2026-000158",
+    "cost_amount": 4425,
+    "currency": "INR",
+    "cost_date": "2026-04-10"
+  },
+  {
+    "cost_id": "COST-000159",
+    "campaign_id": "CMP-2026-000159",
+    "cost_amount": 3967,
+    "currency": "INR",
+    "cost_date": "2026-12-25"
+  },
+  {
+    "cost_id": "COST-000160",
+    "campaign_id": "CMP-2026-000160",
+    "cost_amount": 6127,
+    "currency": "INR",
+    "cost_date": "2026-05-20"
+  },
+  {
+    "cost_id": "COST-000161",
+    "campaign_id": "CMP-2026-000161",
+    "cost_amount": 7649,
+    "currency": "INR",
+    "cost_date": "2026-06-01"
+  },
+  {
+    "cost_id": "COST-000162",
+    "campaign_id": "CMP-2026-000162",
+    "cost_amount": 19662,
+    "currency": "INR",
+    "cost_date": "2026-09-05"
+  },
+  {
+    "cost_id": "COST-000163",
+    "campaign_id": "CMP-2026-000163",
+    "cost_amount": 18150,
+    "currency": "INR",
+    "cost_date": "2026-02-21"
+  },
+  {
+    "cost_id": "COST-000164",
+    "campaign_id": "CMP-2026-000164",
+    "cost_amount": 10889,
+    "currency": "INR",
+    "cost_date": "2026-11-18"
+  },
+  {
+    "cost_id": "COST-000165",
+    "campaign_id": "CMP-2026-000165",
+    "cost_amount": 8620,
+    "currency": "INR",
+    "cost_date": "2026-09-11"
+  },
+  {
+    "cost_id": "COST-000166",
+    "campaign_id": "CMP-2026-000166",
+    "cost_amount": 7769,
+    "currency": "INR",
+    "cost_date": "2026-04-05"
+  },
+  {
+    "cost_id": "COST-000167",
+    "campaign_id": "CMP-2026-000167",
+    "cost_amount": 17250,
+    "currency": "INR",
+    "cost_date": "2026-05-24"
+  },
+  {
+    "cost_id": "COST-000168",
+    "campaign_id": "CMP-2026-000168",
+    "cost_amount": 2926,
+    "currency": "INR",
+    "cost_date": "2026-10-27"
+  },
+  {
+    "cost_id": "COST-000169",
+    "campaign_id": "CMP-2026-000169",
+    "cost_amount": 11294,
+    "currency": "INR",
+    "cost_date": "2026-09-03"
+  },
+  {
+    "cost_id": "COST-000170",
+    "campaign_id": "CMP-2026-000170",
+    "cost_amount": 18653,
+    "currency": "INR",
+    "cost_date": "2026-11-19"
+  },
+  {
+    "cost_id": "COST-000171",
+    "campaign_id": "CMP-2026-000171",
+    "cost_amount": 11719,
+    "currency": "INR",
+    "cost_date": "2026-08-14"
+  },
+  {
+    "cost_id": "COST-000172",
+    "campaign_id": "CMP-2026-000172",
+    "cost_amount": 12856,
+    "currency": "INR",
+    "cost_date": "2026-05-18"
+  },
+  {
+    "cost_id": "COST-000173",
+    "campaign_id": "CMP-2026-000173",
+    "cost_amount": 9417,
+    "currency": "INR",
+    "cost_date": "2026-03-06"
+  },
+  {
+    "cost_id": "COST-000174",
+    "campaign_id": "CMP-2026-000174",
+    "cost_amount": 11774,
+    "currency": "INR",
+    "cost_date": "2026-06-21"
+  },
+  {
+    "cost_id": "COST-000175",
+    "campaign_id": "CMP-2026-000175",
+    "cost_amount": 9528,
+    "currency": "INR",
+    "cost_date": "2026-07-20"
+  },
+  {
+    "cost_id": "COST-000176",
+    "campaign_id": "CMP-2026-000176",
+    "cost_amount": 7477,
+    "currency": "INR",
+    "cost_date": "2026-09-06"
+  },
+  {
+    "cost_id": "COST-000177",
+    "campaign_id": "CMP-2026-000177",
+    "cost_amount": 6856,
+    "currency": "INR",
+    "cost_date": "2026-04-16"
+  },
+  {
+    "cost_id": "COST-000178",
+    "campaign_id": "CMP-2026-000178",
+    "cost_amount": 16608,
+    "currency": "INR",
+    "cost_date": "2026-10-04"
+  },
+  {
+    "cost_id": "COST-000179",
+    "campaign_id": "CMP-2026-000179",
+    "cost_amount": 15021,
+    "currency": "INR",
+    "cost_date": "2026-07-02"
+  },
+  {
+    "cost_id": "COST-000180",
+    "campaign_id": "CMP-2026-000180",
+    "cost_amount": 2475,
+    "currency": "INR",
+    "cost_date": "2026-10-09"
+  },
+  {
+    "cost_id": "COST-000181",
+    "campaign_id": "CMP-2026-000181",
+    "cost_amount": 17054,
+    "currency": "INR",
+    "cost_date": "2026-11-02"
+  },
+  {
+    "cost_id": "COST-000182",
+    "campaign_id": "CMP-2026-000182",
+    "cost_amount": 2532,
+    "currency": "INR",
+    "cost_date": "2026-12-26"
+  },
+  {
+    "cost_id": "COST-000183",
+    "campaign_id": "CMP-2026-000183",
+    "cost_amount": 12164,
+    "currency": "INR",
+    "cost_date": "2026-09-20"
+  },
+  {
+    "cost_id": "COST-000184",
+    "campaign_id": "CMP-2026-000184",
+    "cost_amount": 17990,
+    "currency": "INR",
+    "cost_date": "2026-03-23"
+  },
+  {
+    "cost_id": "COST-000185",
+    "campaign_id": "CMP-2026-000185",
+    "cost_amount": 8737,
+    "currency": "INR",
+    "cost_date": "2026-09-08"
+  },
+  {
+    "cost_id": "COST-000186",
+    "campaign_id": "CMP-2026-000186",
+    "cost_amount": 12218,
+    "currency": "INR",
+    "cost_date": "2026-11-05"
+  },
+  {
+    "cost_id": "COST-000187",
+    "campaign_id": "CMP-2026-000187",
+    "cost_amount": 6398,
+    "currency": "INR",
+    "cost_date": "2026-06-16"
+  },
+  {
+    "cost_id": "COST-000188",
+    "campaign_id": "CMP-2026-000188",
+    "cost_amount": 19278,
+    "currency": "INR",
+    "cost_date": "2026-08-13"
+  },
+  {
+    "cost_id": "COST-000189",
+    "campaign_id": "CMP-2026-000189",
+    "cost_amount": 7034,
+    "currency": "INR",
+    "cost_date": "2026-06-24"
+  },
+  {
+    "cost_id": "COST-000190",
+    "campaign_id": "CMP-2026-000190",
+    "cost_amount": 6587,
+    "currency": "INR",
+    "cost_date": "2026-03-06"
+  },
+  {
+    "cost_id": "COST-000191",
+    "campaign_id": "CMP-2026-000191",
+    "cost_amount": 14801,
+    "currency": "INR",
+    "cost_date": "2026-07-19"
+  },
+  {
+    "cost_id": "COST-000192",
+    "campaign_id": "CMP-2026-000192",
+    "cost_amount": 17203,
+    "currency": "INR",
+    "cost_date": "2026-07-06"
+  },
+  {
+    "cost_id": "COST-000193",
+    "campaign_id": "CMP-2026-000193",
+    "cost_amount": 9745,
+    "currency": "INR",
+    "cost_date": "2026-04-02"
+  },
+  {
+    "cost_id": "COST-000194",
+    "campaign_id": "CMP-2026-000194",
+    "cost_amount": 16134,
+    "currency": "INR",
+    "cost_date": "2026-11-28"
+  },
+  {
+    "cost_id": "COST-000195",
+    "campaign_id": "CMP-2026-000195",
+    "cost_amount": 14341,
+    "currency": "INR",
+    "cost_date": "2026-05-05"
+  },
+  {
+    "cost_id": "COST-000196",
+    "campaign_id": "CMP-2026-000196",
+    "cost_amount": 1438,
+    "currency": "INR",
+    "cost_date": "2026-02-22"
+  },
+  {
+    "cost_id": "COST-000197",
+    "campaign_id": "CMP-2026-000197",
+    "cost_amount": 8027,
+    "currency": "INR",
+    "cost_date": "2026-03-12"
+  },
+  {
+    "cost_id": "COST-000198",
+    "campaign_id": "CMP-2026-000198",
+    "cost_amount": 9868,
+    "currency": "INR",
+    "cost_date": "2026-11-24"
+  },
+  {
+    "cost_id": "COST-000199",
+    "campaign_id": "CMP-2026-000199",
+    "cost_amount": 6076,
+    "currency": "INR",
+    "cost_date": "2026-01-02"
+  },
+  {
+    "cost_id": "COST-000200",
+    "campaign_id": "CMP-2026-000200",
+    "cost_amount": 2264,
+    "currency": "INR",
+    "cost_date": "2026-12-05"
+  },
+  {
+    "cost_id": "COST-000201",
+    "campaign_id": "CMP-2026-000201",
+    "cost_amount": 4443,
+    "currency": "INR",
+    "cost_date": "2026-04-16"
+  },
+  {
+    "cost_id": "COST-000202",
+    "campaign_id": "CMP-2026-000202",
+    "cost_amount": 17182,
+    "currency": "INR",
+    "cost_date": "2026-08-20"
+  },
+  {
+    "cost_id": "COST-000203",
+    "campaign_id": "CMP-2026-000203",
+    "cost_amount": 18738,
+    "currency": "INR",
+    "cost_date": "2026-03-23"
+  },
+  {
+    "cost_id": "COST-000204",
+    "campaign_id": "CMP-2026-000204",
+    "cost_amount": 3376,
+    "currency": "INR",
+    "cost_date": "2026-11-11"
+  },
+  {
+    "cost_id": "COST-000205",
+    "campaign_id": "CMP-2026-000205",
+    "cost_amount": 15001,
+    "currency": "INR",
+    "cost_date": "2026-02-19"
+  },
+  {
+    "cost_id": "COST-000206",
+    "campaign_id": "CMP-2026-000206",
+    "cost_amount": 11181,
+    "currency": "INR",
+    "cost_date": "2026-04-05"
+  },
+  {
+    "cost_id": "COST-000207",
+    "campaign_id": "CMP-2026-000207",
+    "cost_amount": 19669,
+    "currency": "INR",
+    "cost_date": "2026-04-28"
+  },
+  {
+    "cost_id": "COST-000208",
+    "campaign_id": "CMP-2026-000208",
+    "cost_amount": 13924,
+    "currency": "INR",
+    "cost_date": "2026-03-19"
+  },
+  {
+    "cost_id": "COST-000209",
+    "campaign_id": "CMP-2026-000209",
+    "cost_amount": 18408,
+    "currency": "INR",
+    "cost_date": "2026-08-19"
+  },
+  {
+    "cost_id": "COST-000210",
+    "campaign_id": "CMP-2026-000210",
+    "cost_amount": 6349,
+    "currency": "INR",
+    "cost_date": "2026-06-15"
+  },
+  {
+    "cost_id": "COST-000211",
+    "campaign_id": "CMP-2026-000211",
+    "cost_amount": 4024,
+    "currency": "INR",
+    "cost_date": "2026-11-03"
+  },
+  {
+    "cost_id": "COST-000212",
+    "campaign_id": "CMP-2026-000212",
+    "cost_amount": 13987,
+    "currency": "INR",
+    "cost_date": "2026-01-08"
+  },
+  {
+    "cost_id": "COST-000213",
+    "campaign_id": "CMP-2026-000213",
+    "cost_amount": 2930,
+    "currency": "INR",
+    "cost_date": "2026-05-24"
+  },
+  {
+    "cost_id": "COST-000214",
+    "campaign_id": "CMP-2026-000214",
+    "cost_amount": 13653,
+    "currency": "INR",
+    "cost_date": "2026-06-05"
+  },
+  {
+    "cost_id": "COST-000215",
+    "campaign_id": "CMP-2026-000215",
+    "cost_amount": 8741,
+    "currency": "INR",
+    "cost_date": "2026-01-21"
+  },
+  {
+    "cost_id": "COST-000216",
+    "campaign_id": "CMP-2026-000216",
+    "cost_amount": 11400,
+    "currency": "INR",
+    "cost_date": "2026-11-24"
+  },
+  {
+    "cost_id": "COST-000217",
+    "campaign_id": "CMP-2026-000217",
+    "cost_amount": 19645,
+    "currency": "INR",
+    "cost_date": "2026-06-10"
+  },
+  {
+    "cost_id": "COST-000218",
+    "campaign_id": "CMP-2026-000218",
+    "cost_amount": 19715,
+    "currency": "INR",
+    "cost_date": "2026-05-19"
+  },
+  {
+    "cost_id": "COST-000219",
+    "campaign_id": "CMP-2026-000219",
+    "cost_amount": 16340,
+    "currency": "INR",
+    "cost_date": "2026-02-05"
+  },
+  {
+    "cost_id": "COST-000220",
+    "campaign_id": "CMP-2026-000220",
+    "cost_amount": 19015,
+    "currency": "INR",
+    "cost_date": "2026-10-02"
+  },
+  {
+    "cost_id": "COST-000221",
+    "campaign_id": "CMP-2026-000221",
+    "cost_amount": 3370,
+    "currency": "INR",
+    "cost_date": "2026-05-19"
+  },
+  {
+    "cost_id": "COST-000222",
+    "campaign_id": "CMP-2026-000222",
+    "cost_amount": 5650,
+    "currency": "INR",
+    "cost_date": "2026-03-24"
+  },
+  {
+    "cost_id": "COST-000223",
+    "campaign_id": "CMP-2026-000223",
+    "cost_amount": 12378,
+    "currency": "INR",
+    "cost_date": "2026-12-18"
+  },
+  {
+    "cost_id": "COST-000224",
+    "campaign_id": "CMP-2026-000224",
+    "cost_amount": 6292,
+    "currency": "INR",
+    "cost_date": "2026-02-14"
+  },
+  {
+    "cost_id": "COST-000225",
+    "campaign_id": "CMP-2026-000225",
+    "cost_amount": 5949,
+    "currency": "INR",
+    "cost_date": "2026-02-05"
+  },
+  {
+    "cost_id": "COST-000226",
+    "campaign_id": "CMP-2026-000226",
+    "cost_amount": 19613,
+    "currency": "INR",
+    "cost_date": "2026-02-14"
+  },
+  {
+    "cost_id": "COST-000227",
+    "campaign_id": "CMP-2026-000227",
+    "cost_amount": 4092,
+    "currency": "INR",
+    "cost_date": "2026-03-14"
+  },
+  {
+    "cost_id": "COST-000228",
+    "campaign_id": "CMP-2026-000228",
+    "cost_amount": 5731,
+    "currency": "INR",
+    "cost_date": "2026-10-07"
+  },
+  {
+    "cost_id": "COST-000229",
+    "campaign_id": "CMP-2026-000229",
+    "cost_amount": 5736,
+    "currency": "INR",
+    "cost_date": "2026-01-21"
+  },
+  {
+    "cost_id": "COST-000230",
+    "campaign_id": "CMP-2026-000230",
+    "cost_amount": 5181,
+    "currency": "INR",
+    "cost_date": "2026-10-16"
+  },
+  {
+    "cost_id": "COST-000231",
+    "campaign_id": "CMP-2026-000231",
+    "cost_amount": 9706,
+    "currency": "INR",
+    "cost_date": "2026-12-16"
+  },
+  {
+    "cost_id": "COST-000232",
+    "campaign_id": "CMP-2026-000232",
+    "cost_amount": 11835,
+    "currency": "INR",
+    "cost_date": "2026-03-02"
+  },
+  {
+    "cost_id": "COST-000233",
+    "campaign_id": "CMP-2026-000233",
+    "cost_amount": 2158,
+    "currency": "INR",
+    "cost_date": "2026-09-19"
+  },
+  {
+    "cost_id": "COST-000234",
+    "campaign_id": "CMP-2026-000234",
+    "cost_amount": 2538,
+    "currency": "INR",
+    "cost_date": "2026-04-23"
+  },
+  {
+    "cost_id": "COST-000235",
+    "campaign_id": "CMP-2026-000235",
+    "cost_amount": 16428,
+    "currency": "INR",
+    "cost_date": "2026-05-19"
+  },
+  {
+    "cost_id": "COST-000236",
+    "campaign_id": "CMP-2026-000236",
+    "cost_amount": 10161,
+    "currency": "INR",
+    "cost_date": "2026-09-19"
+  },
+  {
+    "cost_id": "COST-000237",
+    "campaign_id": "CMP-2026-000237",
+    "cost_amount": 18121,
+    "currency": "INR",
+    "cost_date": "2026-08-08"
+  },
+  {
+    "cost_id": "COST-000238",
+    "campaign_id": "CMP-2026-000238",
+    "cost_amount": 10208,
+    "currency": "INR",
+    "cost_date": "2026-04-05"
+  },
+  {
+    "cost_id": "COST-000239",
+    "campaign_id": "CMP-2026-000239",
+    "cost_amount": 10372,
+    "currency": "INR",
+    "cost_date": "2026-01-11"
+  },
+  {
+    "cost_id": "COST-000240",
+    "campaign_id": "CMP-2026-000240",
+    "cost_amount": 9915,
+    "currency": "INR",
+    "cost_date": "2026-11-10"
+  },
+  {
+    "cost_id": "COST-000241",
+    "campaign_id": "CMP-2026-000241",
+    "cost_amount": 3302,
+    "currency": "INR",
+    "cost_date": "2026-05-01"
+  },
+  {
+    "cost_id": "COST-000242",
+    "campaign_id": "CMP-2026-000242",
+    "cost_amount": 10682,
+    "currency": "INR",
+    "cost_date": "2026-10-17"
+  },
+  {
+    "cost_id": "COST-000243",
+    "campaign_id": "CMP-2026-000243",
+    "cost_amount": 16773,
+    "currency": "INR",
+    "cost_date": "2026-12-08"
+  },
+  {
+    "cost_id": "COST-000244",
+    "campaign_id": "CMP-2026-000244",
+    "cost_amount": 15115,
+    "currency": "INR",
+    "cost_date": "2026-12-26"
+  },
+  {
+    "cost_id": "COST-000245",
+    "campaign_id": "CMP-2026-000245",
+    "cost_amount": 2538,
+    "currency": "INR",
+    "cost_date": "2026-11-08"
+  },
+  {
+    "cost_id": "COST-000246",
+    "campaign_id": "CMP-2026-000246",
+    "cost_amount": 7045,
+    "currency": "INR",
+    "cost_date": "2026-01-11"
+  },
+  {
+    "cost_id": "COST-000247",
+    "campaign_id": "CMP-2026-000247",
+    "cost_amount": 2868,
+    "currency": "INR",
+    "cost_date": "2026-08-13"
+  },
+  {
+    "cost_id": "COST-000248",
+    "campaign_id": "CMP-2026-000248",
+    "cost_amount": 9115,
+    "currency": "INR",
+    "cost_date": "2026-10-26"
+  },
+  {
+    "cost_id": "COST-000249",
+    "campaign_id": "CMP-2026-000249",
+    "cost_amount": 6034,
+    "currency": "INR",
+    "cost_date": "2026-11-25"
+  },
+  {
+    "cost_id": "COST-000250",
+    "campaign_id": "CMP-2026-000250",
+    "cost_amount": 17497,
+    "currency": "INR",
+    "cost_date": "2026-09-27"
+  },
+  {
+    "cost_id": "COST-000251",
+    "campaign_id": "CMP-2026-000251",
+    "cost_amount": 5591,
+    "currency": "INR",
+    "cost_date": "2026-11-03"
+  },
+  {
+    "cost_id": "COST-000252",
+    "campaign_id": "CMP-2026-000252",
+    "cost_amount": 10361,
+    "currency": "INR",
+    "cost_date": "2026-09-21"
+  },
+  {
+    "cost_id": "COST-000253",
+    "campaign_id": "CMP-2026-000253",
+    "cost_amount": 14807,
+    "currency": "INR",
+    "cost_date": "2026-06-21"
+  },
+  {
+    "cost_id": "COST-000254",
+    "campaign_id": "CMP-2026-000254",
+    "cost_amount": 6905,
+    "currency": "INR",
+    "cost_date": "2026-02-11"
+  },
+  {
+    "cost_id": "COST-000255",
+    "campaign_id": "CMP-2026-000255",
+    "cost_amount": 8300,
+    "currency": "INR",
+    "cost_date": "2026-02-02"
+  },
+  {
+    "cost_id": "COST-000256",
+    "campaign_id": "CMP-2026-000256",
+    "cost_amount": 10571,
+    "currency": "INR",
+    "cost_date": "2026-07-21"
+  },
+  {
+    "cost_id": "COST-000257",
+    "campaign_id": "CMP-2026-000257",
+    "cost_amount": 17881,
+    "currency": "INR",
+    "cost_date": "2026-07-02"
+  },
+  {
+    "cost_id": "COST-000258",
+    "campaign_id": "CMP-2026-000258",
+    "cost_amount": 6648,
+    "currency": "INR",
+    "cost_date": "2026-08-07"
+  },
+  {
+    "cost_id": "COST-000259",
+    "campaign_id": "CMP-2026-000259",
+    "cost_amount": 8723,
+    "currency": "INR",
+    "cost_date": "2026-11-03"
+  },
+  {
+    "cost_id": "COST-000260",
+    "campaign_id": "CMP-2026-000260",
+    "cost_amount": 2966,
+    "currency": "INR",
+    "cost_date": "2026-11-26"
+  },
+  {
+    "cost_id": "COST-000261",
+    "campaign_id": "CMP-2026-000261",
+    "cost_amount": 16489,
+    "currency": "INR",
+    "cost_date": "2026-09-08"
+  },
+  {
+    "cost_id": "COST-000262",
+    "campaign_id": "CMP-2026-000262",
+    "cost_amount": 16783,
+    "currency": "INR",
+    "cost_date": "2026-11-19"
+  },
+  {
+    "cost_id": "COST-000263",
+    "campaign_id": "CMP-2026-000263",
+    "cost_amount": 9747,
+    "currency": "INR",
+    "cost_date": "2026-04-20"
+  },
+  {
+    "cost_id": "COST-000264",
+    "campaign_id": "CMP-2026-000264",
+    "cost_amount": 12334,
+    "currency": "INR",
+    "cost_date": "2026-03-05"
+  },
+  {
+    "cost_id": "COST-000265",
+    "campaign_id": "CMP-2026-000265",
+    "cost_amount": 18190,
+    "currency": "INR",
+    "cost_date": "2026-05-08"
+  },
+  {
+    "cost_id": "COST-000266",
+    "campaign_id": "CMP-2026-000266",
+    "cost_amount": 17350,
+    "currency": "INR",
+    "cost_date": "2026-10-18"
+  },
+  {
+    "cost_id": "COST-000267",
+    "campaign_id": "CMP-2026-000267",
+    "cost_amount": 12940,
+    "currency": "INR",
+    "cost_date": "2026-06-17"
+  },
+  {
+    "cost_id": "COST-000268",
+    "campaign_id": "CMP-2026-000268",
+    "cost_amount": 15630,
+    "currency": "INR",
+    "cost_date": "2026-05-16"
+  },
+  {
+    "cost_id": "COST-000269",
+    "campaign_id": "CMP-2026-000269",
+    "cost_amount": 9933,
+    "currency": "INR",
+    "cost_date": "2026-05-14"
+  },
+  {
+    "cost_id": "COST-000270",
+    "campaign_id": "CMP-2026-000270",
+    "cost_amount": 4406,
+    "currency": "INR",
+    "cost_date": "2026-04-19"
+  },
+  {
+    "cost_id": "COST-000271",
+    "campaign_id": "CMP-2026-000271",
+    "cost_amount": 6016,
+    "currency": "INR",
+    "cost_date": "2026-03-10"
+  },
+  {
+    "cost_id": "COST-000272",
+    "campaign_id": "CMP-2026-000272",
+    "cost_amount": 14036,
+    "currency": "INR",
+    "cost_date": "2026-05-03"
+  },
+  {
+    "cost_id": "COST-000273",
+    "campaign_id": "CMP-2026-000273",
+    "cost_amount": 5052,
+    "currency": "INR",
+    "cost_date": "2026-09-17"
+  },
+  {
+    "cost_id": "COST-000274",
+    "campaign_id": "CMP-2026-000274",
+    "cost_amount": 4753,
+    "currency": "INR",
+    "cost_date": "2026-07-13"
+  },
+  {
+    "cost_id": "COST-000275",
+    "campaign_id": "CMP-2026-000275",
+    "cost_amount": 7591,
+    "currency": "INR",
+    "cost_date": "2026-06-09"
+  },
+  {
+    "cost_id": "COST-000276",
+    "campaign_id": "CMP-2026-000276",
+    "cost_amount": 1437,
+    "currency": "INR",
+    "cost_date": "2026-03-18"
+  },
+  {
+    "cost_id": "COST-000277",
+    "campaign_id": "CMP-2026-000277",
+    "cost_amount": 14061,
+    "currency": "INR",
+    "cost_date": "2026-01-13"
+  },
+  {
+    "cost_id": "COST-000278",
+    "campaign_id": "CMP-2026-000278",
+    "cost_amount": 2259,
+    "currency": "INR",
+    "cost_date": "2026-05-28"
+  },
+  {
+    "cost_id": "COST-000279",
+    "campaign_id": "CMP-2026-000279",
+    "cost_amount": 5830,
+    "currency": "INR",
+    "cost_date": "2026-08-11"
+  },
+  {
+    "cost_id": "COST-000280",
+    "campaign_id": "CMP-2026-000280",
+    "cost_amount": 17942,
+    "currency": "INR",
+    "cost_date": "2026-05-17"
+  },
+  {
+    "cost_id": "COST-000281",
+    "campaign_id": "CMP-2026-000281",
+    "cost_amount": 3244,
+    "currency": "INR",
+    "cost_date": "2026-11-07"
+  },
+  {
+    "cost_id": "COST-000282",
+    "campaign_id": "CMP-2026-000282",
+    "cost_amount": 5345,
+    "currency": "INR",
+    "cost_date": "2026-08-11"
+  },
+  {
+    "cost_id": "COST-000283",
+    "campaign_id": "CMP-2026-000283",
+    "cost_amount": 6658,
+    "currency": "INR",
+    "cost_date": "2026-01-15"
+  },
+  {
+    "cost_id": "COST-000284",
+    "campaign_id": "CMP-2026-000284",
+    "cost_amount": 2018,
+    "currency": "INR",
+    "cost_date": "2026-04-17"
+  },
+  {
+    "cost_id": "COST-000285",
+    "campaign_id": "CMP-2026-000285",
+    "cost_amount": 17663,
+    "currency": "INR",
+    "cost_date": "2026-04-16"
+  },
+  {
+    "cost_id": "COST-000286",
+    "campaign_id": "CMP-2026-000286",
+    "cost_amount": 16666,
+    "currency": "INR",
+    "cost_date": "2026-10-03"
+  },
+  {
+    "cost_id": "COST-000287",
+    "campaign_id": "CMP-2026-000287",
+    "cost_amount": 9606,
+    "currency": "INR",
+    "cost_date": "2026-02-18"
+  },
+  {
+    "cost_id": "COST-000288",
+    "campaign_id": "CMP-2026-000288",
+    "cost_amount": 16834,
+    "currency": "INR",
+    "cost_date": "2026-05-13"
+  },
+  {
+    "cost_id": "COST-000289",
+    "campaign_id": "CMP-2026-000289",
+    "cost_amount": 12845,
+    "currency": "INR",
+    "cost_date": "2026-07-14"
+  },
+  {
+    "cost_id": "COST-000290",
+    "campaign_id": "CMP-2026-000290",
+    "cost_amount": 17901,
+    "currency": "INR",
+    "cost_date": "2026-02-20"
+  },
+  {
+    "cost_id": "COST-000291",
+    "campaign_id": "CMP-2026-000291",
+    "cost_amount": 14378,
+    "currency": "INR",
+    "cost_date": "2026-10-26"
+  },
+  {
+    "cost_id": "COST-000292",
+    "campaign_id": "CMP-2026-000292",
+    "cost_amount": 18624,
+    "currency": "INR",
+    "cost_date": "2026-05-11"
+  },
+  {
+    "cost_id": "COST-000293",
+    "campaign_id": "CMP-2026-000293",
+    "cost_amount": 2212,
+    "currency": "INR",
+    "cost_date": "2026-11-17"
+  },
+  {
+    "cost_id": "COST-000294",
+    "campaign_id": "CMP-2026-000294",
+    "cost_amount": 16069,
+    "currency": "INR",
+    "cost_date": "2026-06-13"
+  },
+  {
+    "cost_id": "COST-000295",
+    "campaign_id": "CMP-2026-000295",
+    "cost_amount": 7087,
+    "currency": "INR",
+    "cost_date": "2026-03-15"
+  },
+  {
+    "cost_id": "COST-000296",
+    "campaign_id": "CMP-2026-000296",
+    "cost_amount": 4786,
+    "currency": "INR",
+    "cost_date": "2026-02-08"
+  },
+  {
+    "cost_id": "COST-000297",
+    "campaign_id": "CMP-2026-000297",
+    "cost_amount": 16511,
+    "currency": "INR",
+    "cost_date": "2026-06-28"
+  },
+  {
+    "cost_id": "COST-000298",
+    "campaign_id": "CMP-2026-000298",
+    "cost_amount": 16067,
+    "currency": "INR",
+    "cost_date": "2026-07-07"
+  },
+  {
+    "cost_id": "COST-000299",
+    "campaign_id": "CMP-2026-000299",
+    "cost_amount": 10832,
+    "currency": "INR",
+    "cost_date": "2026-05-07"
+  },
+  {
+    "cost_id": "COST-000300",
+    "campaign_id": "CMP-2026-000300",
+    "cost_amount": 16756,
+    "currency": "INR",
+    "cost_date": "2026-10-12"
+  },
+  {
+    "cost_id": "COST-000301",
+    "campaign_id": "CMP-2026-000301",
+    "cost_amount": 6029,
+    "currency": "INR",
+    "cost_date": "2026-05-15"
+  },
+  {
+    "cost_id": "COST-000302",
+    "campaign_id": "CMP-2026-000302",
+    "cost_amount": 14143,
+    "currency": "INR",
+    "cost_date": "2026-01-08"
+  },
+  {
+    "cost_id": "COST-000303",
+    "campaign_id": "CMP-2026-000303",
+    "cost_amount": 14218,
+    "currency": "INR",
+    "cost_date": "2026-10-04"
+  },
+  {
+    "cost_id": "COST-000304",
+    "campaign_id": "CMP-2026-000304",
+    "cost_amount": 9327,
+    "currency": "INR",
+    "cost_date": "2026-08-15"
+  },
+  {
+    "cost_id": "COST-000305",
+    "campaign_id": "CMP-2026-000305",
+    "cost_amount": 3286,
+    "currency": "INR",
+    "cost_date": "2026-05-04"
+  },
+  {
+    "cost_id": "COST-000306",
+    "campaign_id": "CMP-2026-000306",
+    "cost_amount": 7951,
+    "currency": "INR",
+    "cost_date": "2026-04-25"
+  },
+  {
+    "cost_id": "COST-000307",
+    "campaign_id": "CMP-2026-000307",
+    "cost_amount": 10009,
+    "currency": "INR",
+    "cost_date": "2026-07-17"
+  },
+  {
+    "cost_id": "COST-000308",
+    "campaign_id": "CMP-2026-000308",
+    "cost_amount": 19584,
+    "currency": "INR",
+    "cost_date": "2026-07-24"
+  },
+  {
+    "cost_id": "COST-000309",
+    "campaign_id": "CMP-2026-000309",
+    "cost_amount": 10632,
+    "currency": "INR",
+    "cost_date": "2026-06-05"
+  },
+  {
+    "cost_id": "COST-000310",
+    "campaign_id": "CMP-2026-000310",
+    "cost_amount": 1003,
+    "currency": "INR",
+    "cost_date": "2026-07-18"
+  },
+  {
+    "cost_id": "COST-000311",
+    "campaign_id": "CMP-2026-000311",
+    "cost_amount": 12352,
+    "currency": "INR",
+    "cost_date": "2026-01-26"
+  },
+  {
+    "cost_id": "COST-000312",
+    "campaign_id": "CMP-2026-000312",
+    "cost_amount": 19732,
+    "currency": "INR",
+    "cost_date": "2026-02-09"
+  },
+  {
+    "cost_id": "COST-000313",
+    "campaign_id": "CMP-2026-000313",
+    "cost_amount": 19249,
+    "currency": "INR",
+    "cost_date": "2026-04-02"
+  },
+  {
+    "cost_id": "COST-000314",
+    "campaign_id": "CMP-2026-000314",
+    "cost_amount": 11347,
+    "currency": "INR",
+    "cost_date": "2026-08-03"
+  },
+  {
+    "cost_id": "COST-000315",
+    "campaign_id": "CMP-2026-000315",
+    "cost_amount": 11700,
+    "currency": "INR",
+    "cost_date": "2026-09-02"
+  },
+  {
+    "cost_id": "COST-000316",
+    "campaign_id": "CMP-2026-000316",
+    "cost_amount": 11164,
+    "currency": "INR",
+    "cost_date": "2026-11-21"
+  },
+  {
+    "cost_id": "COST-000317",
+    "campaign_id": "CMP-2026-000317",
+    "cost_amount": 11065,
+    "currency": "INR",
+    "cost_date": "2026-07-09"
+  },
+  {
+    "cost_id": "COST-000318",
+    "campaign_id": "CMP-2026-000318",
+    "cost_amount": 9618,
+    "currency": "INR",
+    "cost_date": "2026-08-26"
+  },
+  {
+    "cost_id": "COST-000319",
+    "campaign_id": "CMP-2026-000319",
+    "cost_amount": 3710,
+    "currency": "INR",
+    "cost_date": "2026-03-05"
+  },
+  {
+    "cost_id": "COST-000320",
+    "campaign_id": "CMP-2026-000320",
+    "cost_amount": 3759,
+    "currency": "INR",
+    "cost_date": "2026-09-09"
+  },
+  {
+    "cost_id": "COST-000321",
+    "campaign_id": "CMP-2026-000321",
+    "cost_amount": 19953,
+    "currency": "INR",
+    "cost_date": "2026-09-25"
+  },
+  {
+    "cost_id": "COST-000322",
+    "campaign_id": "CMP-2026-000322",
+    "cost_amount": 18534,
+    "currency": "INR",
+    "cost_date": "2026-07-09"
+  },
+  {
+    "cost_id": "COST-000323",
+    "campaign_id": "CMP-2026-000323",
+    "cost_amount": 18709,
+    "currency": "INR",
+    "cost_date": "2026-06-07"
+  },
+  {
+    "cost_id": "COST-000324",
+    "campaign_id": "CMP-2026-000324",
+    "cost_amount": 10842,
+    "currency": "INR",
+    "cost_date": "2026-08-27"
+  },
+  {
+    "cost_id": "COST-000325",
+    "campaign_id": "CMP-2026-000325",
+    "cost_amount": 3609,
+    "currency": "INR",
+    "cost_date": "2026-05-09"
+  },
+  {
+    "cost_id": "COST-000326",
+    "campaign_id": "CMP-2026-000326",
+    "cost_amount": 11417,
+    "currency": "INR",
+    "cost_date": "2026-11-12"
+  },
+  {
+    "cost_id": "COST-000327",
+    "campaign_id": "CMP-2026-000327",
+    "cost_amount": 3775,
+    "currency": "INR",
+    "cost_date": "2026-07-22"
+  },
+  {
+    "cost_id": "COST-000328",
+    "campaign_id": "CMP-2026-000328",
+    "cost_amount": 3361,
+    "currency": "INR",
+    "cost_date": "2026-12-21"
+  },
+  {
+    "cost_id": "COST-000329",
+    "campaign_id": "CMP-2026-000329",
+    "cost_amount": 14969,
+    "currency": "INR",
+    "cost_date": "2026-04-25"
+  },
+  {
+    "cost_id": "COST-000330",
+    "campaign_id": "CMP-2026-000330",
+    "cost_amount": 13007,
+    "currency": "INR",
+    "cost_date": "2026-06-22"
+  },
+  {
+    "cost_id": "COST-000331",
+    "campaign_id": "CMP-2026-000331",
+    "cost_amount": 15391,
+    "currency": "INR",
+    "cost_date": "2026-12-16"
+  },
+  {
+    "cost_id": "COST-000332",
+    "campaign_id": "CMP-2026-000332",
+    "cost_amount": 3669,
+    "currency": "INR",
+    "cost_date": "2026-07-14"
+  },
+  {
+    "cost_id": "COST-000333",
+    "campaign_id": "CMP-2026-000333",
+    "cost_amount": 5441,
+    "currency": "INR",
+    "cost_date": "2026-01-19"
+  },
+  {
+    "cost_id": "COST-000334",
+    "campaign_id": "CMP-2026-000334",
+    "cost_amount": 4501,
+    "currency": "INR",
+    "cost_date": "2026-08-16"
+  },
+  {
+    "cost_id": "COST-000335",
+    "campaign_id": "CMP-2026-000335",
+    "cost_amount": 19640,
+    "currency": "INR",
+    "cost_date": "2026-07-19"
+  },
+  {
+    "cost_id": "COST-000336",
+    "campaign_id": "CMP-2026-000336",
+    "cost_amount": 8596,
+    "currency": "INR",
+    "cost_date": "2026-12-22"
+  },
+  {
+    "cost_id": "COST-000337",
+    "campaign_id": "CMP-2026-000337",
+    "cost_amount": 14456,
+    "currency": "INR",
+    "cost_date": "2026-10-13"
+  },
+  {
+    "cost_id": "COST-000338",
+    "campaign_id": "CMP-2026-000338",
+    "cost_amount": 3168,
+    "currency": "INR",
+    "cost_date": "2026-08-21"
+  },
+  {
+    "cost_id": "COST-000339",
+    "campaign_id": "CMP-2026-000339",
+    "cost_amount": 14108,
+    "currency": "INR",
+    "cost_date": "2026-01-03"
+  },
+  {
+    "cost_id": "COST-000340",
+    "campaign_id": "CMP-2026-000340",
+    "cost_amount": 10827,
+    "currency": "INR",
+    "cost_date": "2026-04-20"
+  },
+  {
+    "cost_id": "COST-000341",
+    "campaign_id": "CMP-2026-000341",
+    "cost_amount": 19619,
+    "currency": "INR",
+    "cost_date": "2026-10-24"
+  },
+  {
+    "cost_id": "COST-000342",
+    "campaign_id": "CMP-2026-000342",
+    "cost_amount": 18207,
+    "currency": "INR",
+    "cost_date": "2026-11-14"
+  },
+  {
+    "cost_id": "COST-000343",
+    "campaign_id": "CMP-2026-000343",
+    "cost_amount": 1726,
+    "currency": "INR",
+    "cost_date": "2026-10-25"
+  },
+  {
+    "cost_id": "COST-000344",
+    "campaign_id": "CMP-2026-000344",
+    "cost_amount": 14884,
+    "currency": "INR",
+    "cost_date": "2026-06-19"
+  },
+  {
+    "cost_id": "COST-000345",
+    "campaign_id": "CMP-2026-000345",
+    "cost_amount": 18644,
+    "currency": "INR",
+    "cost_date": "2026-01-12"
+  },
+  {
+    "cost_id": "COST-000346",
+    "campaign_id": "CMP-2026-000346",
+    "cost_amount": 14330,
+    "currency": "INR",
+    "cost_date": "2026-08-13"
+  },
+  {
+    "cost_id": "COST-000347",
+    "campaign_id": "CMP-2026-000347",
+    "cost_amount": 3299,
+    "currency": "INR",
+    "cost_date": "2026-12-26"
+  },
+  {
+    "cost_id": "COST-000348",
+    "campaign_id": "CMP-2026-000348",
+    "cost_amount": 5096,
+    "currency": "INR",
+    "cost_date": "2026-04-19"
+  },
+  {
+    "cost_id": "COST-000349",
+    "campaign_id": "CMP-2026-000349",
+    "cost_amount": 16662,
+    "currency": "INR",
+    "cost_date": "2026-01-17"
+  },
+  {
+    "cost_id": "COST-000350",
+    "campaign_id": "CMP-2026-000350",
+    "cost_amount": 5389,
+    "currency": "INR",
+    "cost_date": "2026-11-23"
+  },
+  {
+    "cost_id": "COST-000351",
+    "campaign_id": "CMP-2026-000351",
+    "cost_amount": 6241,
+    "currency": "INR",
+    "cost_date": "2026-12-15"
+  },
+  {
+    "cost_id": "COST-000352",
+    "campaign_id": "CMP-2026-000352",
+    "cost_amount": 8846,
+    "currency": "INR",
+    "cost_date": "2026-07-08"
+  },
+  {
+    "cost_id": "COST-000353",
+    "campaign_id": "CMP-2026-000353",
+    "cost_amount": 1753,
+    "currency": "INR",
+    "cost_date": "2026-03-27"
+  },
+  {
+    "cost_id": "COST-000354",
+    "campaign_id": "CMP-2026-000354",
+    "cost_amount": 1563,
+    "currency": "INR",
+    "cost_date": "2026-08-06"
+  },
+  {
+    "cost_id": "COST-000355",
+    "campaign_id": "CMP-2026-000355",
+    "cost_amount": 12308,
+    "currency": "INR",
+    "cost_date": "2026-03-16"
+  },
+  {
+    "cost_id": "COST-000356",
+    "campaign_id": "CMP-2026-000356",
+    "cost_amount": 6740,
+    "currency": "INR",
+    "cost_date": "2026-03-23"
+  },
+  {
+    "cost_id": "COST-000357",
+    "campaign_id": "CMP-2026-000357",
+    "cost_amount": 11082,
+    "currency": "INR",
+    "cost_date": "2026-11-17"
+  },
+  {
+    "cost_id": "COST-000358",
+    "campaign_id": "CMP-2026-000358",
+    "cost_amount": 19479,
+    "currency": "INR",
+    "cost_date": "2026-08-13"
+  },
+  {
+    "cost_id": "COST-000359",
+    "campaign_id": "CMP-2026-000359",
+    "cost_amount": 16642,
+    "currency": "INR",
+    "cost_date": "2026-11-25"
+  },
+  {
+    "cost_id": "COST-000360",
+    "campaign_id": "CMP-2026-000360",
+    "cost_amount": 18367,
+    "currency": "INR",
+    "cost_date": "2026-07-18"
+  },
+  {
+    "cost_id": "COST-000361",
+    "campaign_id": "CMP-2026-000361",
+    "cost_amount": 8637,
+    "currency": "INR",
+    "cost_date": "2026-10-09"
+  },
+  {
+    "cost_id": "COST-000362",
+    "campaign_id": "CMP-2026-000362",
+    "cost_amount": 18298,
+    "currency": "INR",
+    "cost_date": "2026-10-07"
+  },
+  {
+    "cost_id": "COST-000363",
+    "campaign_id": "CMP-2026-000363",
+    "cost_amount": 4250,
+    "currency": "INR",
+    "cost_date": "2026-07-04"
+  },
+  {
+    "cost_id": "COST-000364",
+    "campaign_id": "CMP-2026-000364",
+    "cost_amount": 18147,
+    "currency": "INR",
+    "cost_date": "2026-02-03"
+  },
+  {
+    "cost_id": "COST-000365",
+    "campaign_id": "CMP-2026-000365",
+    "cost_amount": 9128,
+    "currency": "INR",
+    "cost_date": "2026-06-27"
+  },
+  {
+    "cost_id": "COST-000366",
+    "campaign_id": "CMP-2026-000366",
+    "cost_amount": 17864,
+    "currency": "INR",
+    "cost_date": "2026-07-16"
+  },
+  {
+    "cost_id": "COST-000367",
+    "campaign_id": "CMP-2026-000367",
+    "cost_amount": 13738,
+    "currency": "INR",
+    "cost_date": "2026-10-07"
+  },
+  {
+    "cost_id": "COST-000368",
+    "campaign_id": "CMP-2026-000368",
+    "cost_amount": 12841,
+    "currency": "INR",
+    "cost_date": "2026-06-26"
+  },
+  {
+    "cost_id": "COST-000369",
+    "campaign_id": "CMP-2026-000369",
+    "cost_amount": 2796,
+    "currency": "INR",
+    "cost_date": "2026-11-21"
+  },
+  {
+    "cost_id": "COST-000370",
+    "campaign_id": "CMP-2026-000370",
+    "cost_amount": 13486,
+    "currency": "INR",
+    "cost_date": "2026-06-16"
+  },
+  {
+    "cost_id": "COST-000371",
+    "campaign_id": "CMP-2026-000371",
+    "cost_amount": 1115,
+    "currency": "INR",
+    "cost_date": "2026-11-15"
+  },
+  {
+    "cost_id": "COST-000372",
+    "campaign_id": "CMP-2026-000372",
+    "cost_amount": 19292,
+    "currency": "INR",
+    "cost_date": "2026-07-09"
+  },
+  {
+    "cost_id": "COST-000373",
+    "campaign_id": "CMP-2026-000373",
+    "cost_amount": 4452,
+    "currency": "INR",
+    "cost_date": "2026-01-28"
+  },
+  {
+    "cost_id": "COST-000374",
+    "campaign_id": "CMP-2026-000374",
+    "cost_amount": 13120,
+    "currency": "INR",
+    "cost_date": "2026-02-28"
+  },
+  {
+    "cost_id": "COST-000375",
+    "campaign_id": "CMP-2026-000375",
+    "cost_amount": 7636,
+    "currency": "INR",
+    "cost_date": "2026-09-25"
+  },
+  {
+    "cost_id": "COST-000376",
+    "campaign_id": "CMP-2026-000376",
+    "cost_amount": 17763,
+    "currency": "INR",
+    "cost_date": "2026-06-12"
+  },
+  {
+    "cost_id": "COST-000377",
+    "campaign_id": "CMP-2026-000377",
+    "cost_amount": 17300,
+    "currency": "INR",
+    "cost_date": "2026-09-19"
+  },
+  {
+    "cost_id": "COST-000378",
+    "campaign_id": "CMP-2026-000378",
+    "cost_amount": 17144,
+    "currency": "INR",
+    "cost_date": "2026-01-13"
+  },
+  {
+    "cost_id": "COST-000379",
+    "campaign_id": "CMP-2026-000379",
+    "cost_amount": 9040,
+    "currency": "INR",
+    "cost_date": "2026-05-12"
+  },
+  {
+    "cost_id": "COST-000380",
+    "campaign_id": "CMP-2026-000380",
+    "cost_amount": 13574,
+    "currency": "INR",
+    "cost_date": "2026-08-06"
+  },
+  {
+    "cost_id": "COST-000381",
+    "campaign_id": "CMP-2026-000381",
+    "cost_amount": 10963,
+    "currency": "INR",
+    "cost_date": "2026-07-17"
+  },
+  {
+    "cost_id": "COST-000382",
+    "campaign_id": "CMP-2026-000382",
+    "cost_amount": 9543,
+    "currency": "INR",
+    "cost_date": "2026-08-16"
+  },
+  {
+    "cost_id": "COST-000383",
+    "campaign_id": "CMP-2026-000383",
+    "cost_amount": 9895,
+    "currency": "INR",
+    "cost_date": "2026-11-08"
+  },
+  {
+    "cost_id": "COST-000384",
+    "campaign_id": "CMP-2026-000384",
+    "cost_amount": 3076,
+    "currency": "INR",
+    "cost_date": "2026-01-12"
+  },
+  {
+    "cost_id": "COST-000385",
+    "campaign_id": "CMP-2026-000385",
+    "cost_amount": 16559,
+    "currency": "INR",
+    "cost_date": "2026-12-21"
+  },
+  {
+    "cost_id": "COST-000386",
+    "campaign_id": "CMP-2026-000386",
+    "cost_amount": 17954,
+    "currency": "INR",
+    "cost_date": "2026-06-16"
+  },
+  {
+    "cost_id": "COST-000387",
+    "campaign_id": "CMP-2026-000387",
+    "cost_amount": 3342,
+    "currency": "INR",
+    "cost_date": "2026-05-11"
+  },
+  {
+    "cost_id": "COST-000388",
+    "campaign_id": "CMP-2026-000388",
+    "cost_amount": 2310,
+    "currency": "INR",
+    "cost_date": "2026-05-02"
+  },
+  {
+    "cost_id": "COST-000389",
+    "campaign_id": "CMP-2026-000389",
+    "cost_amount": 8694,
+    "currency": "INR",
+    "cost_date": "2026-11-02"
+  },
+  {
+    "cost_id": "COST-000390",
+    "campaign_id": "CMP-2026-000390",
+    "cost_amount": 13682,
+    "currency": "INR",
+    "cost_date": "2026-02-07"
+  },
+  {
+    "cost_id": "COST-000391",
+    "campaign_id": "CMP-2026-000391",
+    "cost_amount": 18770,
+    "currency": "INR",
+    "cost_date": "2026-08-01"
+  },
+  {
+    "cost_id": "COST-000392",
+    "campaign_id": "CMP-2026-000392",
+    "cost_amount": 14895,
+    "currency": "INR",
+    "cost_date": "2026-05-22"
+  },
+  {
+    "cost_id": "COST-000393",
+    "campaign_id": "CMP-2026-000393",
+    "cost_amount": 1383,
+    "currency": "INR",
+    "cost_date": "2026-12-01"
+  },
+  {
+    "cost_id": "COST-000394",
+    "campaign_id": "CMP-2026-000394",
+    "cost_amount": 8059,
+    "currency": "INR",
+    "cost_date": "2026-04-21"
+  },
+  {
+    "cost_id": "COST-000395",
+    "campaign_id": "CMP-2026-000395",
+    "cost_amount": 5182,
+    "currency": "INR",
+    "cost_date": "2026-04-11"
+  },
+  {
+    "cost_id": "COST-000396",
+    "campaign_id": "CMP-2026-000396",
+    "cost_amount": 16106,
+    "currency": "INR",
+    "cost_date": "2026-03-11"
+  },
+  {
+    "cost_id": "COST-000397",
+    "campaign_id": "CMP-2026-000397",
+    "cost_amount": 10597,
+    "currency": "INR",
+    "cost_date": "2026-03-14"
+  },
+  {
+    "cost_id": "COST-000398",
+    "campaign_id": "CMP-2026-000398",
+    "cost_amount": 3400,
+    "currency": "INR",
+    "cost_date": "2026-02-05"
+  },
+  {
+    "cost_id": "COST-000399",
+    "campaign_id": "CMP-2026-000399",
+    "cost_amount": 8064,
+    "currency": "INR",
+    "cost_date": "2026-02-22"
+  },
+  {
+    "cost_id": "COST-000400",
+    "campaign_id": "CMP-2026-000400",
+    "cost_amount": 16278,
+    "currency": "INR",
+    "cost_date": "2026-12-09"
+  },
+  {
+    "cost_id": "COST-000401",
+    "campaign_id": "CMP-2026-000401",
+    "cost_amount": 7395,
+    "currency": "INR",
+    "cost_date": "2026-10-07"
+  },
+  {
+    "cost_id": "COST-000402",
+    "campaign_id": "CMP-2026-000402",
+    "cost_amount": 1371,
+    "currency": "INR",
+    "cost_date": "2026-10-25"
+  },
+  {
+    "cost_id": "COST-000403",
+    "campaign_id": "CMP-2026-000403",
+    "cost_amount": 8181,
+    "currency": "INR",
+    "cost_date": "2026-11-18"
+  },
+  {
+    "cost_id": "COST-000404",
+    "campaign_id": "CMP-2026-000404",
+    "cost_amount": 9034,
+    "currency": "INR",
+    "cost_date": "2026-04-01"
+  },
+  {
+    "cost_id": "COST-000405",
+    "campaign_id": "CMP-2026-000405",
+    "cost_amount": 6807,
+    "currency": "INR",
+    "cost_date": "2026-12-24"
+  },
+  {
+    "cost_id": "COST-000406",
+    "campaign_id": "CMP-2026-000406",
+    "cost_amount": 14931,
+    "currency": "INR",
+    "cost_date": "2026-10-09"
+  },
+  {
+    "cost_id": "COST-000407",
+    "campaign_id": "CMP-2026-000407",
+    "cost_amount": 18436,
+    "currency": "INR",
+    "cost_date": "2026-02-13"
+  },
+  {
+    "cost_id": "COST-000408",
+    "campaign_id": "CMP-2026-000408",
+    "cost_amount": 16473,
+    "currency": "INR",
+    "cost_date": "2026-10-25"
+  },
+  {
+    "cost_id": "COST-000409",
+    "campaign_id": "CMP-2026-000409",
+    "cost_amount": 15126,
+    "currency": "INR",
+    "cost_date": "2026-11-02"
+  },
+  {
+    "cost_id": "COST-000410",
+    "campaign_id": "CMP-2026-000410",
+    "cost_amount": 1122,
+    "currency": "INR",
+    "cost_date": "2026-10-07"
+  },
+  {
+    "cost_id": "COST-000411",
+    "campaign_id": "CMP-2026-000411",
+    "cost_amount": 6571,
+    "currency": "INR",
+    "cost_date": "2026-06-09"
+  },
+  {
+    "cost_id": "COST-000412",
+    "campaign_id": "CMP-2026-000412",
+    "cost_amount": 4698,
+    "currency": "INR",
+    "cost_date": "2026-01-12"
+  },
+  {
+    "cost_id": "COST-000413",
+    "campaign_id": "CMP-2026-000413",
+    "cost_amount": 19082,
+    "currency": "INR",
+    "cost_date": "2026-04-04"
+  },
+  {
+    "cost_id": "COST-000414",
+    "campaign_id": "CMP-2026-000414",
+    "cost_amount": 15515,
+    "currency": "INR",
+    "cost_date": "2026-03-14"
+  },
+  {
+    "cost_id": "COST-000415",
+    "campaign_id": "CMP-2026-000415",
+    "cost_amount": 13614,
+    "currency": "INR",
+    "cost_date": "2026-10-12"
+  },
+  {
+    "cost_id": "COST-000416",
+    "campaign_id": "CMP-2026-000416",
+    "cost_amount": 10061,
+    "currency": "INR",
+    "cost_date": "2026-03-10"
+  },
+  {
+    "cost_id": "COST-000417",
+    "campaign_id": "CMP-2026-000417",
+    "cost_amount": 6186,
+    "currency": "INR",
+    "cost_date": "2026-04-28"
+  },
+  {
+    "cost_id": "COST-000418",
+    "campaign_id": "CMP-2026-000418",
+    "cost_amount": 12698,
+    "currency": "INR",
+    "cost_date": "2026-01-06"
+  },
+  {
+    "cost_id": "COST-000419",
+    "campaign_id": "CMP-2026-000419",
+    "cost_amount": 2653,
+    "currency": "INR",
+    "cost_date": "2026-12-11"
+  },
+  {
+    "cost_id": "COST-000420",
+    "campaign_id": "CMP-2026-000420",
+    "cost_amount": 18346,
+    "currency": "INR",
+    "cost_date": "2026-12-24"
+  },
+  {
+    "cost_id": "COST-000421",
+    "campaign_id": "CMP-2026-000421",
+    "cost_amount": 3869,
+    "currency": "INR",
+    "cost_date": "2026-01-21"
+  },
+  {
+    "cost_id": "COST-000422",
+    "campaign_id": "CMP-2026-000422",
+    "cost_amount": 19208,
+    "currency": "INR",
+    "cost_date": "2026-08-13"
+  },
+  {
+    "cost_id": "COST-000423",
+    "campaign_id": "CMP-2026-000423",
+    "cost_amount": 4015,
+    "currency": "INR",
+    "cost_date": "2026-03-16"
+  },
+  {
+    "cost_id": "COST-000424",
+    "campaign_id": "CMP-2026-000424",
+    "cost_amount": 16034,
+    "currency": "INR",
+    "cost_date": "2026-05-08"
+  },
+  {
+    "cost_id": "COST-000425",
+    "campaign_id": "CMP-2026-000425",
+    "cost_amount": 4018,
+    "currency": "INR",
+    "cost_date": "2026-12-03"
+  },
+  {
+    "cost_id": "COST-000426",
+    "campaign_id": "CMP-2026-000426",
+    "cost_amount": 17336,
+    "currency": "INR",
+    "cost_date": "2026-02-03"
+  },
+  {
+    "cost_id": "COST-000427",
+    "campaign_id": "CMP-2026-000427",
+    "cost_amount": 4704,
+    "currency": "INR",
+    "cost_date": "2026-08-07"
+  },
+  {
+    "cost_id": "COST-000428",
+    "campaign_id": "CMP-2026-000428",
+    "cost_amount": 19736,
+    "currency": "INR",
+    "cost_date": "2026-04-21"
+  },
+  {
+    "cost_id": "COST-000429",
+    "campaign_id": "CMP-2026-000429",
+    "cost_amount": 11224,
+    "currency": "INR",
+    "cost_date": "2026-08-12"
+  },
+  {
+    "cost_id": "COST-000430",
+    "campaign_id": "CMP-2026-000430",
+    "cost_amount": 16676,
+    "currency": "INR",
+    "cost_date": "2026-08-27"
+  },
+  {
+    "cost_id": "COST-000431",
+    "campaign_id": "CMP-2026-000431",
+    "cost_amount": 17085,
+    "currency": "INR",
+    "cost_date": "2026-06-13"
+  },
+  {
+    "cost_id": "COST-000432",
+    "campaign_id": "CMP-2026-000432",
+    "cost_amount": 15038,
+    "currency": "INR",
+    "cost_date": "2026-08-17"
+  },
+  {
+    "cost_id": "COST-000433",
+    "campaign_id": "CMP-2026-000433",
+    "cost_amount": 7458,
+    "currency": "INR",
+    "cost_date": "2026-02-20"
+  },
+  {
+    "cost_id": "COST-000434",
+    "campaign_id": "CMP-2026-000434",
+    "cost_amount": 15107,
+    "currency": "INR",
+    "cost_date": "2026-11-10"
+  },
+  {
+    "cost_id": "COST-000435",
+    "campaign_id": "CMP-2026-000435",
+    "cost_amount": 4821,
+    "currency": "INR",
+    "cost_date": "2026-02-24"
+  },
+  {
+    "cost_id": "COST-000436",
+    "campaign_id": "CMP-2026-000436",
+    "cost_amount": 10486,
+    "currency": "INR",
+    "cost_date": "2026-02-13"
+  },
+  {
+    "cost_id": "COST-000437",
+    "campaign_id": "CMP-2026-000437",
+    "cost_amount": 6575,
+    "currency": "INR",
+    "cost_date": "2026-01-03"
+  },
+  {
+    "cost_id": "COST-000438",
+    "campaign_id": "CMP-2026-000438",
+    "cost_amount": 16213,
+    "currency": "INR",
+    "cost_date": "2026-12-01"
+  },
+  {
+    "cost_id": "COST-000439",
+    "campaign_id": "CMP-2026-000439",
+    "cost_amount": 19457,
+    "currency": "INR",
+    "cost_date": "2026-10-09"
+  },
+  {
+    "cost_id": "COST-000440",
+    "campaign_id": "CMP-2026-000440",
+    "cost_amount": 13433,
+    "currency": "INR",
+    "cost_date": "2026-07-09"
+  },
+  {
+    "cost_id": "COST-000441",
+    "campaign_id": "CMP-2026-000441",
+    "cost_amount": 16942,
+    "currency": "INR",
+    "cost_date": "2026-06-09"
+  },
+  {
+    "cost_id": "COST-000442",
+    "campaign_id": "CMP-2026-000442",
+    "cost_amount": 17127,
+    "currency": "INR",
+    "cost_date": "2026-01-05"
+  },
+  {
+    "cost_id": "COST-000443",
+    "campaign_id": "CMP-2026-000443",
+    "cost_amount": 16702,
+    "currency": "INR",
+    "cost_date": "2026-09-04"
+  },
+  {
+    "cost_id": "COST-000444",
+    "campaign_id": "CMP-2026-000444",
+    "cost_amount": 2648,
+    "currency": "INR",
+    "cost_date": "2026-06-14"
+  },
+  {
+    "cost_id": "COST-000445",
+    "campaign_id": "CMP-2026-000445",
+    "cost_amount": 4848,
+    "currency": "INR",
+    "cost_date": "2026-06-10"
+  },
+  {
+    "cost_id": "COST-000446",
+    "campaign_id": "CMP-2026-000446",
+    "cost_amount": 9439,
+    "currency": "INR",
+    "cost_date": "2026-03-14"
+  },
+  {
+    "cost_id": "COST-000447",
+    "campaign_id": "CMP-2026-000447",
+    "cost_amount": 1214,
+    "currency": "INR",
+    "cost_date": "2026-03-07"
+  },
+  {
+    "cost_id": "COST-000448",
+    "campaign_id": "CMP-2026-000448",
+    "cost_amount": 18383,
+    "currency": "INR",
+    "cost_date": "2026-08-14"
+  },
+  {
+    "cost_id": "COST-000449",
+    "campaign_id": "CMP-2026-000449",
+    "cost_amount": 14342,
+    "currency": "INR",
+    "cost_date": "2026-01-28"
+  },
+  {
+    "cost_id": "COST-000450",
+    "campaign_id": "CMP-2026-000450",
+    "cost_amount": 4820,
+    "currency": "INR",
+    "cost_date": "2026-03-19"
+  },
+  {
+    "cost_id": "COST-000451",
+    "campaign_id": "CMP-2026-000451",
+    "cost_amount": 4896,
+    "currency": "INR",
+    "cost_date": "2026-02-01"
+  },
+  {
+    "cost_id": "COST-000452",
+    "campaign_id": "CMP-2026-000452",
+    "cost_amount": 19226,
+    "currency": "INR",
+    "cost_date": "2026-06-12"
+  },
+  {
+    "cost_id": "COST-000453",
+    "campaign_id": "CMP-2026-000453",
+    "cost_amount": 6112,
+    "currency": "INR",
+    "cost_date": "2026-12-06"
+  },
+  {
+    "cost_id": "COST-000454",
+    "campaign_id": "CMP-2026-000454",
+    "cost_amount": 15062,
+    "currency": "INR",
+    "cost_date": "2026-01-06"
+  },
+  {
+    "cost_id": "COST-000455",
+    "campaign_id": "CMP-2026-000455",
+    "cost_amount": 12695,
+    "currency": "INR",
+    "cost_date": "2026-10-03"
+  },
+  {
+    "cost_id": "COST-000456",
+    "campaign_id": "CMP-2026-000456",
+    "cost_amount": 15361,
+    "currency": "INR",
+    "cost_date": "2026-03-22"
+  },
+  {
+    "cost_id": "COST-000457",
+    "campaign_id": "CMP-2026-000457",
+    "cost_amount": 15165,
+    "currency": "INR",
+    "cost_date": "2026-01-09"
+  },
+  {
+    "cost_id": "COST-000458",
+    "campaign_id": "CMP-2026-000458",
+    "cost_amount": 5032,
+    "currency": "INR",
+    "cost_date": "2026-05-17"
+  },
+  {
+    "cost_id": "COST-000459",
+    "campaign_id": "CMP-2026-000459",
+    "cost_amount": 14248,
+    "currency": "INR",
+    "cost_date": "2026-10-01"
+  },
+  {
+    "cost_id": "COST-000460",
+    "campaign_id": "CMP-2026-000460",
+    "cost_amount": 8526,
+    "currency": "INR",
+    "cost_date": "2026-08-26"
+  },
+  {
+    "cost_id": "COST-000461",
+    "campaign_id": "CMP-2026-000461",
+    "cost_amount": 15425,
+    "currency": "INR",
+    "cost_date": "2026-05-01"
+  },
+  {
+    "cost_id": "COST-000462",
+    "campaign_id": "CMP-2026-000462",
+    "cost_amount": 11761,
+    "currency": "INR",
+    "cost_date": "2026-08-08"
+  },
+  {
+    "cost_id": "COST-000463",
+    "campaign_id": "CMP-2026-000463",
+    "cost_amount": 5737,
+    "currency": "INR",
+    "cost_date": "2026-03-18"
+  },
+  {
+    "cost_id": "COST-000464",
+    "campaign_id": "CMP-2026-000464",
+    "cost_amount": 9698,
+    "currency": "INR",
+    "cost_date": "2026-11-11"
+  },
+  {
+    "cost_id": "COST-000465",
+    "campaign_id": "CMP-2026-000465",
+    "cost_amount": 1041,
+    "currency": "INR",
+    "cost_date": "2026-08-09"
+  },
+  {
+    "cost_id": "COST-000466",
+    "campaign_id": "CMP-2026-000466",
+    "cost_amount": 13114,
+    "currency": "INR",
+    "cost_date": "2026-07-24"
+  },
+  {
+    "cost_id": "COST-000467",
+    "campaign_id": "CMP-2026-000467",
+    "cost_amount": 3923,
+    "currency": "INR",
+    "cost_date": "2026-04-28"
+  },
+  {
+    "cost_id": "COST-000468",
+    "campaign_id": "CMP-2026-000468",
+    "cost_amount": 16426,
+    "currency": "INR",
+    "cost_date": "2026-12-05"
+  },
+  {
+    "cost_id": "COST-000469",
+    "campaign_id": "CMP-2026-000469",
+    "cost_amount": 16178,
+    "currency": "INR",
+    "cost_date": "2026-01-01"
+  },
+  {
+    "cost_id": "COST-000470",
+    "campaign_id": "CMP-2026-000470",
+    "cost_amount": 9490,
+    "currency": "INR",
+    "cost_date": "2026-08-03"
+  },
+  {
+    "cost_id": "COST-000471",
+    "campaign_id": "CMP-2026-000471",
+    "cost_amount": 8792,
+    "currency": "INR",
+    "cost_date": "2026-08-23"
+  },
+  {
+    "cost_id": "COST-000472",
+    "campaign_id": "CMP-2026-000472",
+    "cost_amount": 1463,
+    "currency": "INR",
+    "cost_date": "2026-06-14"
+  },
+  {
+    "cost_id": "COST-000473",
+    "campaign_id": "CMP-2026-000473",
+    "cost_amount": 14741,
+    "currency": "INR",
+    "cost_date": "2026-04-22"
+  },
+  {
+    "cost_id": "COST-000474",
+    "campaign_id": "CMP-2026-000474",
+    "cost_amount": 17893,
+    "currency": "INR",
+    "cost_date": "2026-12-09"
+  },
+  {
+    "cost_id": "COST-000475",
+    "campaign_id": "CMP-2026-000475",
+    "cost_amount": 10862,
+    "currency": "INR",
+    "cost_date": "2026-07-05"
+  },
+  {
+    "cost_id": "COST-000476",
+    "campaign_id": "CMP-2026-000476",
+    "cost_amount": 19537,
+    "currency": "INR",
+    "cost_date": "2026-02-02"
+  },
+  {
+    "cost_id": "COST-000477",
+    "campaign_id": "CMP-2026-000477",
+    "cost_amount": 18660,
+    "currency": "INR",
+    "cost_date": "2026-09-25"
+  },
+  {
+    "cost_id": "COST-000478",
+    "campaign_id": "CMP-2026-000478",
+    "cost_amount": 18414,
+    "currency": "INR",
+    "cost_date": "2026-12-21"
+  },
+  {
+    "cost_id": "COST-000479",
+    "campaign_id": "CMP-2026-000479",
+    "cost_amount": 1226,
+    "currency": "INR",
+    "cost_date": "2026-10-13"
+  },
+  {
+    "cost_id": "COST-000480",
+    "campaign_id": "CMP-2026-000480",
+    "cost_amount": 3640,
+    "currency": "INR",
+    "cost_date": "2026-04-20"
+  },
+  {
+    "cost_id": "COST-000481",
+    "campaign_id": "CMP-2026-000481",
+    "cost_amount": 15229,
+    "currency": "INR",
+    "cost_date": "2026-09-19"
+  },
+  {
+    "cost_id": "COST-000482",
+    "campaign_id": "CMP-2026-000482",
+    "cost_amount": 3595,
+    "currency": "INR",
+    "cost_date": "2026-05-24"
+  },
+  {
+    "cost_id": "COST-000483",
+    "campaign_id": "CMP-2026-000483",
+    "cost_amount": 10568,
+    "currency": "INR",
+    "cost_date": "2026-11-12"
+  },
+  {
+    "cost_id": "COST-000484",
+    "campaign_id": "CMP-2026-000484",
+    "cost_amount": 3337,
+    "currency": "INR",
+    "cost_date": "2026-02-28"
+  },
+  {
+    "cost_id": "COST-000485",
+    "campaign_id": "CMP-2026-000485",
+    "cost_amount": 2743,
+    "currency": "INR",
+    "cost_date": "2026-11-12"
+  },
+  {
+    "cost_id": "COST-000486",
+    "campaign_id": "CMP-2026-000486",
+    "cost_amount": 6675,
+    "currency": "INR",
+    "cost_date": "2026-10-04"
+  },
+  {
+    "cost_id": "COST-000487",
+    "campaign_id": "CMP-2026-000487",
+    "cost_amount": 18237,
+    "currency": "INR",
+    "cost_date": "2026-11-16"
+  },
+  {
+    "cost_id": "COST-000488",
+    "campaign_id": "CMP-2026-000488",
+    "cost_amount": 18903,
+    "currency": "INR",
+    "cost_date": "2026-02-21"
+  },
+  {
+    "cost_id": "COST-000489",
+    "campaign_id": "CMP-2026-000489",
+    "cost_amount": 7562,
+    "currency": "INR",
+    "cost_date": "2026-06-22"
+  },
+  {
+    "cost_id": "COST-000490",
+    "campaign_id": "CMP-2026-000490",
+    "cost_amount": 3080,
+    "currency": "INR",
+    "cost_date": "2026-01-04"
+  },
+  {
+    "cost_id": "COST-000491",
+    "campaign_id": "CMP-2026-000491",
+    "cost_amount": 15758,
+    "currency": "INR",
+    "cost_date": "2026-12-17"
+  },
+  {
+    "cost_id": "COST-000492",
+    "campaign_id": "CMP-2026-000492",
+    "cost_amount": 15100,
+    "currency": "INR",
+    "cost_date": "2026-02-10"
+  },
+  {
+    "cost_id": "COST-000493",
+    "campaign_id": "CMP-2026-000493",
+    "cost_amount": 11846,
+    "currency": "INR",
+    "cost_date": "2026-01-25"
+  },
+  {
+    "cost_id": "COST-000494",
+    "campaign_id": "CMP-2026-000494",
+    "cost_amount": 19808,
+    "currency": "INR",
+    "cost_date": "2026-02-11"
+  },
+  {
+    "cost_id": "COST-000495",
+    "campaign_id": "CMP-2026-000495",
+    "cost_amount": 10922,
+    "currency": "INR",
+    "cost_date": "2026-04-11"
+  },
+  {
+    "cost_id": "COST-000496",
+    "campaign_id": "CMP-2026-000496",
+    "cost_amount": 5595,
+    "currency": "INR",
+    "cost_date": "2026-09-22"
+  },
+  {
+    "cost_id": "COST-000497",
+    "campaign_id": "CMP-2026-000497",
+    "cost_amount": 2194,
+    "currency": "INR",
+    "cost_date": "2026-02-18"
+  },
+  {
+    "cost_id": "COST-000498",
+    "campaign_id": "CMP-2026-000498",
+    "cost_amount": 16328,
+    "currency": "INR",
+    "cost_date": "2026-05-06"
+  },
+  {
+    "cost_id": "COST-000499",
+    "campaign_id": "CMP-2026-000499",
+    "cost_amount": 11177,
+    "currency": "INR",
+    "cost_date": "2026-06-01"
+  },
+  {
+    "cost_id": "COST-000500",
+    "campaign_id": "CMP-2026-000500",
+    "cost_amount": 13832,
+    "currency": "INR",
+    "cost_date": "2026-07-05"
+  }
+]

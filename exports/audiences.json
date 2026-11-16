@@ -1,0 +1,127 @@
+[
+  {
+    "audience_id": "AUD-0001",
+    "audience_name": "Audience 1",
+    "segment_type": "Returning Customers"
+  },
+  {
+    "audience_id": "AUD-0002",
+    "audience_name": "Audience 2",
+    "segment_type": "New Customers"
+  },
+  {
+    "audience_id": "AUD-0003",
+    "audience_name": "Audience 3",
+    "segment_type": "New Customers"
+  },
+  {
+    "audience_id": "AUD-0004",
+    "audience_name": "Audience 4",
+    "segment_type": "New Customers"
+  },
+  {
+    "audience_id": "AUD-0005",
+    "audience_name": "Audience 5",
+    "segment_type": "General"
+  },
+  {
+    "audience_id": "AUD-0006",
+    "audience_name": "Audience 6",
+    "segment_type": "Returning Customers"
+  },
+  {
+    "audience_id": "AUD-0007",
+    "audience_name": "Audience 7",
+    "segment_type": "General"
+  },
+  {
+    "audience_id": "AUD-0008",
+    "audience_name": "Audience 8",
+    "segment_type": "General"
+  },
+  {
+    "audience_id": "AUD-0009",
+    "audience_name": "Audience 9",
+    "segment_type": "New Customers"
+  },
+  {
+    "audience_id": "AUD-0010",
+    "audience_name": "Audience 10",
+    "segment_type": "New Customers"
+  },
+  {
+    "audience_id": "AUD-0011",
+    "audience_name": "Audience 11",
+    "segment_type": "High Intent"
+  },
+  {
+    "audience_id": "AUD-0012",
+    "audience_name": "Audience 12",
+    "segment_type": "New Customers"
+  },
+  {
+    "audience_id": "AUD-0013",
+    "audience_name": "Audience 13",
+    "segment_type": "General"
+  },
+  {
+    "audience_id": "AUD-0014",
+    "audience_name": "Audience 14",
+    "segment_type": "New Customers"
+  },
+  {
+    "audience_id": "AUD-0015",
+    "audience_name": "Audience 15",
+    "segment_type": "General"
+  },
+  {
+    "audience_id": "AUD-0016",
+    "audience_name": "Audience 16",
+    "segment_type": "New Customers"
+  },
+  {
+    "audience_id": "AUD-0017",
+    "audience_name": "Audience 17",
+    "segment_type": "Returning Customers"
+  },
+  {
+    "audience_id": "AUD-0018",
+    "audience_name": "Audience 18",
+    "segment_type": "New Customers"
+  },
+  {
+    "audience_id": "AUD-0019",
+    "audience_name": "Audience 19",
+    "segment_type": "Returning Customers"
+  },
+  {
+    "audience_id": "AUD-0020",
+    "audience_name": "Audience 20",
+    "segment_type": "High Intent"
+  },
+  {
+    "audience_id": "AUD-0021",
+    "audience_name": "Audience 21",
+    "segment_type": "High Intent"
+  },
+  {
+    "audience_id": "AUD-0022",
+    "audience_name": "Audience 22",
+    "segment_type": "New Customers"
+  },
+  {
+    "audience_id": "AUD-0023",
+    "audience_name": "Audience 23",
+    "segment_type": "High Intent"
+  },
+  {
+    "audience_id": "AUD-0024",
+    "audience_name": "Audience 24",
+    "segment_type": "General"
+  },
+  {
+    "audience_id": "AUD-0025",
+    "audience_name": "Audience 25",
+    "segment_type": "New Customers"
+  }
+]

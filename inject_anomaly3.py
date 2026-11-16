@@ -4,25 +4,25 @@ from pathlib import Path
 
 Path("anomaly_data").mkdir(exist_ok=True)
 
-# Load original campaign costs
+# Load clean campaign costs
 costs = pd.read_csv("cost_records.csv")
 
-# Select the first cost record
+# Select one campaign cost
 target = costs.iloc[0].copy()
 
-# Change its currency to USD to create an anomaly
-target["currency"] = "USD"
-
-# Create a separate anomalous dataset
+# Change INR to USD
 anomalous_costs = costs.copy()
-anomalous_costs.loc[0, "currency"] = "USD"
+anomalous_costs.loc[
+    anomalous_costs["cost_id"] == target["cost_id"],
+    "currency"
+] = "USD"
 
 anomalous_costs.to_csv(
     "anomaly_data/costs_currency_mismatch.csv",
     index=False
 )
 
-# Add ground-truth label
+# Update ground truth without duplicating ANOM-003
 ground_truth_path = Path("anomaly_data/ground_truth.csv")
 
 new_label = pd.DataFrame([{
@@ -30,19 +30,21 @@ new_label = pd.DataFrame([{
     "anomaly_type": "SPEND_CURRENCY_MISMATCH",
     "entity_id": target["cost_id"],
     "expected_result": "FLAG",
-    "reason": "Campaign spend currency differs from the expected reporting currency INR"
+    "reason": "Campaign spend currency differs from expected reporting currency INR"
 }])
 
-existing_labels = pd.read_csv(ground_truth_path)
-updated_labels = pd.concat(
-    [existing_labels, new_label],
-    ignore_index=True
-)
-updated_labels.to_csv(ground_truth_path, index=False)
+if ground_truth_path.exists():
+    existing = pd.read_csv(ground_truth_path)
+    existing = existing[existing["anomaly_id"] != "ANOM-003"]
+    updated = pd.concat([existing, new_label], ignore_index=True)
+else:
+    updated = new_label
 
-print("Currency mismatch anomaly created!")
-print("Affected cost:", target["cost_id"])
+updated.to_csv(ground_truth_path, index=False)
+
+print("ANOM-003 created successfully!")
+print("Cost ID:", target["cost_id"])
 print("Campaign:", target["campaign_id"])
-print("Original currency: INR")
+print("Original currency:", target["currency"])
 print("Anomalous currency: USD")
 print("Decision: FLAG")
