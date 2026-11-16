@@ -1,0 +1,4 @@
+session_id,anonymous_id,contact_id,identity_evidence,consent_status
+SES-000001,ANON-001,,NONE,NO
+SES-000002,ANON-002,CON-000001,LOGIN,YES
+SES-000003,ANON-003,,NONE,NO
